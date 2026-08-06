@@ -1,0 +1,1365 @@
+[
+    {
+    "id": "WOMEN-001",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Purpose and Scope",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 1",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women"
+    ],
+    "jurisdiction": "India",
+    "severity": "High",
+    "urgency": "High",
+    "intent": [
+    "domestic violence",
+    "women protection",
+    "legal rights"
+    ],
+    "keywords": [
+    "domestic violence",
+    "protection of women",
+    "act 2005",
+    "india",
+    "rights",
+    "family violence"
+    ],
+    "search_text": "Protection of Women from Domestic Violence Act 2005 short title extent commencement applicability India",
+    "translations": {
+    "hi": {
+    "title": "घरेलू हिंसा से महिलाओं का संरक्षण अधिनियम, 2005",
+    "summary": "यह अधिनियम महिलाओं को परिवार के भीतर होने वाली घरेलू हिंसा से प्रभावी कानूनी संरक्षण प्रदान करने के लिए बनाया गया है और पूरे भारत में लागू है।"
+    }
+    },
+    "question": "What is the Protection of Women from Domestic Violence Act, 2005?",
+    "answer": "The Protection of Women from Domestic Violence Act, 2005 provides legal protection to women who are victims of domestic violence. It extends to the whole of India and came into force on a date notified by the Central Government.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 3
+    },
+    {
+    "id": "WOMEN-002",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Aggrieved Person",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 2(a)",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women"
+    ],
+    "jurisdiction": "India",
+    "severity": "High",
+    "urgency": "High",
+    "intent": [
+    "eligibility",
+    "victim",
+    "domestic relationship"
+    ],
+    "keywords": [
+    "aggrieved person",
+    "woman",
+    "victim",
+    "domestic relationship",
+    "respondent"
+    ],
+    "search_text": "Who is an aggrieved person under Protection of Women from Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "पीड़ित महिला की परिभाषा",
+    "summary": "पीड़ित महिला वह है जो घरेलू संबंध में रही हो या हो तथा जिसने प्रतिवादी द्वारा घरेलू हिंसा का आरोप लगाया हो।"
+    }
+    },
+    "question": "Who is an aggrieved person under this Act?",
+    "answer": "An aggrieved person means any woman who is, or has been, in a domestic relationship with the respondent and who alleges that she has been subjected to any act of domestic violence by the respondent.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 3
+    },
+    {
+    "id": "WOMEN-003",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Domestic Relationship",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 2(f)",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women",
+    "Family Members"
+    ],
+    "jurisdiction": "India",
+    "severity": "Medium",
+    "urgency": "Medium",
+    "intent": [
+    "relationship",
+    "shared household",
+    "family"
+    ],
+    "keywords": [
+    "domestic relationship",
+    "shared household",
+    "marriage",
+    "joint family",
+    "adoption"
+    ],
+    "search_text": "Meaning of domestic relationship under Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "घरेलू संबंध",
+    "summary": "घरेलू संबंध वह संबंध है जिसमें दो व्यक्ति साझा घर में साथ रहते हैं या रह चुके हैं और वे विवाह, रक्त संबंध, गोद लेने या संयुक्त परिवार से जुड़े हों।"
+    }
+    },
+    "question": "What is a domestic relationship under this Act?",
+    "answer": "A domestic relationship means a relationship between two persons who live or have lived together in a shared household and are related by consanguinity, marriage, a relationship in the nature of marriage, adoption, or as members of a joint family.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 3
+    },
+    {
+    "id": "WOMEN-004",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Shared Household",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 2(s)",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women"
+    ],
+    "jurisdiction": "India",
+    "severity": "Medium",
+    "urgency": "Medium",
+    "intent": [
+    "shared household",
+    "residence",
+    "housing rights"
+    ],
+    "keywords": [
+    "shared household",
+    "joint family",
+    "residence",
+    "house",
+    "property"
+    ],
+    "search_text": "Meaning of shared household under Protection of Women from Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "साझा गृह",
+    "summary": "साझा गृह वह घर है जहाँ पीड़ित महिला घरेलू संबंध के दौरान रहती है या रह चुकी है, चाहे स्वामित्व किसी का भी हो।"
+    }
+    },
+    "question": "What is a shared household under this Act?",
+    "answer": "A shared household means a household where the aggrieved person lives or has lived in a domestic relationship with the respondent. It includes jointly or separately owned or tenanted property and may also include a joint family household.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 4
+    },
+    {
+    "id": "WOMEN-005",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Definition",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 3",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women"
+    ],
+    "jurisdiction": "India",
+    "severity": "High",
+    "urgency": "High",
+    "intent": [
+    "definition",
+    "abuse",
+    "violence"
+    ],
+    "keywords": [
+    "domestic violence",
+    "physical abuse",
+    "sexual abuse",
+    "verbal abuse",
+    "economic abuse"
+    ],
+    "search_text": "Definition of domestic violence under Protection of Women from Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "घरेलू हिंसा की परिभाषा",
+    "summary": "घरेलू हिंसा में शारीरिक, यौन, मौखिक, भावनात्मक तथा आर्थिक उत्पीड़न सहित ऐसा कोई भी आचरण शामिल है जिससे महिला की सुरक्षा या सम्मान प्रभावित हो।"
+    }
+    },
+    "question": "What constitutes domestic violence under this Act?",
+    "answer": "Domestic violence includes any act, omission or conduct that harms or endangers the health, safety, life or well-being of the aggrieved person. It includes physical abuse, sexual abuse, verbal and emotional abuse, economic abuse, dowry-related harassment, threats and other conduct causing physical or mental harm.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 4
+    },
+    {
+    "id": "WOMEN-006",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Reporting Domestic Violence",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 4",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women",
+    "Public"
+    ],
+    "jurisdiction": "India",
+    "severity": "High",
+    "urgency": "High",
+    "intent": [
+    "report violence",
+    "protection officer",
+    "complaint"
+    ],
+    "keywords": [
+    "protection officer",
+    "report",
+    "complaint",
+    "informant",
+    "good faith"
+    ],
+    "search_text": "Who can report domestic violence Protection Officer good faith informant",
+    "translations": {
+    "hi": {
+    "title": "घरेलू हिंसा की सूचना",
+    "summary": "यदि किसी व्यक्ति को घरेलू हिंसा होने, होने की संभावना या होने का विश्वास हो तो वह संरक्षण अधिकारी को सूचना दे सकता है और सद्भावना में दी गई सूचना पर उसके विरुद्ध कोई दायित्व नहीं होगा।"
+    }
+    },
+    "question": "Who can report domestic violence under this Act?",
+    "answer": "Any person who has reason to believe that an act of domestic violence has been, is being, or is likely to be committed may provide information to the concerned Protection Officer. No civil or criminal liability is incurred for giving such information in good faith.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 5
+    },
+    {
+        "id": "WOMEN-007",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Rights of Aggrieved Person",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 5",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+        "legal rights",
+        "complaint",
+        "protection"
+        ],
+        "keywords": [
+        "protection order",
+        "monetary relief",
+        "custody order",
+        "residence order",
+        "compensation order",
+        "legal aid"
+        ],
+        "search_text": "Rights informed by police Protection Officer Magistrate under Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "पीड़ित महिला के अधिकार",
+        "summary": "पुलिस, संरक्षण अधिकारी, सेवा प्रदाता या मजिस्ट्रेट को पीड़ित महिला को उपलब्ध राहतों, कानूनी सहायता तथा अन्य सेवाओं की जानकारी देना आवश्यक है।"
+        }
+        },
+        "question": "What information must be given to an aggrieved woman after a domestic violence complaint?",
+        "answer": "The aggrieved woman must be informed about her right to seek protection orders, residence orders, monetary relief, custody orders, compensation orders, the availability of service providers, Protection Officers, free legal services and, wherever relevant, her right to file a complaint under section 498A of the Indian Penal Code.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 5
+        },
+        {
+        "id": "WOMEN-008",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Shelter Homes",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 6",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "Emergency",
+        "intent": [
+        "shelter",
+        "safe accommodation",
+        "protection"
+        ],
+        "keywords": [
+        "shelter home",
+        "safe shelter",
+        "protection officer",
+        "service provider"
+        ],
+        "search_text": "Shelter home duty under Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "आश्रय गृह की जिम्मेदारी",
+        "summary": "यदि पीड़ित महिला या उसकी ओर से संरक्षण अधिकारी या सेवा प्रदाता अनुरोध करे तो आश्रय गृह को उसे आश्रय देना होगा।"
+        }
+        },
+        "question": "Can an aggrieved woman seek shelter under this Act?",
+        "answer": "Yes. If an aggrieved woman, or a Protection Officer or service provider on her behalf, requests shelter, the person in charge of the shelter home shall provide shelter to the aggrieved woman.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 5
+        },
+        {
+        "id": "WOMEN-009",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Medical Assistance",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 7",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "Emergency",
+        "intent": [
+        "medical help",
+        "treatment",
+        "assistance"
+        ],
+        "keywords": [
+        "medical facility",
+        "medical aid",
+        "hospital",
+        "treatment"
+        ],
+        "search_text": "Medical aid under Protection of Women from Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "चिकित्सीय सहायता",
+        "summary": "पीड़ित महिला या उसकी ओर से अनुरोध किए जाने पर चिकित्सा सुविधा को आवश्यक चिकित्सा सहायता प्रदान करनी होगी।"
+        }
+        },
+        "question": "Can an aggrieved woman receive medical assistance under this Act?",
+        "answer": "Yes. If an aggrieved woman, or a Protection Officer or service provider on her behalf, requests medical aid, the person in charge of the notified medical facility shall provide medical assistance.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 5
+        },
+        {
+        "id": "WOMEN-010",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Protection Officers",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 8",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Government",
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+        "protection officer",
+        "government",
+        "appointment"
+        ],
+        "keywords": [
+        "protection officer",
+        "district",
+        "state government",
+        "appointment"
+        ],
+        "search_text": "Appointment of Protection Officers under Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "संरक्षण अधिकारियों की नियुक्ति",
+        "summary": "राज्य सरकार प्रत्येक जिले में आवश्यक संख्या में संरक्षण अधिकारियों की नियुक्ति करेगी और यथासंभव वे महिलाएं होंगी।"
+        }
+        },
+        "question": "Who appoints Protection Officers under this Act?",
+        "answer": "The State Government appoints the required number of Protection Officers for each district and notifies the area in which they exercise their powers. As far as possible, Protection Officers shall be women.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 5
+        },
+        {
+        "id": "WOMEN-011",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Functions of Protection Officer",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 9",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+        "protection officer",
+        "legal aid",
+        "complaint"
+        ],
+        "keywords": [
+        "domestic incident report",
+        "legal aid",
+        "medical examination",
+        "shelter home",
+        "magistrate"
+        ],
+        "search_text": "Functions and duties of Protection Officer under Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "संरक्षण अधिकारी के कार्य",
+        "summary": "संरक्षण अधिकारी मजिस्ट्रेट की सहायता करता है, घरेलू घटना रिपोर्ट तैयार करता है, कानूनी सहायता, आश्रय, चिकित्सा सहायता और अन्य राहत सुनिश्चित करता है।"
+        }
+        },
+        "question": "What are the main duties of a Protection Officer?",
+        "answer": "A Protection Officer assists the Magistrate, prepares domestic incident reports, helps file applications for relief, ensures legal aid, maintains lists of service providers, arranges shelter and medical examination when required, and helps execute monetary relief orders.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 6
+        },
+        {
+        "id": "WOMEN-012",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Service Providers",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 10",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women",
+        "Service Providers"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+        "service provider",
+        "support",
+        "assistance"
+        ],
+        "keywords": [
+        "service provider",
+        "NGO",
+        "medical assistance",
+        "legal aid",
+        "shelter"
+        ],
+        "search_text": "Registered service providers under Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "सेवा प्रदाता",
+        "summary": "महिलाओं के अधिकारों की रक्षा करने वाले पंजीकृत सेवा प्रदाता घरेलू घटना रिपोर्ट दर्ज कर सकते हैं, चिकित्सा सहायता और आश्रय उपलब्ध कराने में सहायता कर सकते हैं।"
+        }
+        },
+        "question": "What can a registered service provider do under this Act?",
+        "answer": "A registered service provider may record a domestic incident report, arrange medical examination, help provide shelter to the aggrieved woman, and forward the required reports to the Protection Officer, Magistrate and police as provided under the Act.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 6
+        },
+        {
+"id": "WOMEN-013",
+"domain": "Women Rights",
+"category": "Domestic Violence",
+"subcategory": "Government Duties",
+"act": "Protection of Women from Domestic Violence Act, 2005",
+"section": "Section 11",
+"old_law_reference": null,
+"applicable_to": [
+"Government",
+"Women"
+],
+"jurisdiction": "India",
+"severity": "Medium",
+"urgency": "Medium",
+"intent": [
+"government responsibilities",
+"awareness",
+"training"
+],
+"keywords": [
+"government",
+"awareness",
+"training",
+"publicity",
+"coordination"
+],
+"search_text": "Duties of Central and State Government under Domestic Violence Act",
+"translations": {
+"hi": {
+"title": "सरकार के कर्तव्य",
+"summary": "केंद्र और राज्य सरकारों को अधिनियम का प्रचार, अधिकारियों का प्रशिक्षण तथा महिलाओं को सेवाएं उपलब्ध कराने के लिए समन्वय सुनिश्चित करना होगा।"
+}
+},
+"question": "What are the duties of the Government under this Act?",
+"answer": "The Central and State Governments shall publicize the Act, provide sensitization and awareness training to officials, establish coordination among concerned departments and prepare protocols for delivering services to women under the Act.",
+"source": "Protection of Women from Domestic Violence Act, 2005",
+"page": 7
+},
+{
+"id": "WOMEN-014",
+"domain": "Women Rights",
+"category": "Domestic Violence",
+"subcategory": "Application to Magistrate",
+"act": "Protection of Women from Domestic Violence Act, 2005",
+"section": "Section 12",
+"old_law_reference": null,
+"applicable_to": [
+"Women"
+],
+"jurisdiction": "India",
+"severity": "High",
+"urgency": "High",
+"intent": [
+"file application",
+"magistrate",
+"relief"
+],
+"keywords": [
+"application",
+"magistrate",
+"domestic incident report",
+"relief"
+],
+"search_text": "Application to Magistrate under Protection of Women from Domestic Violence Act",
+"translations": {
+"hi": {
+"title": "मजिस्ट्रेट के समक्ष आवेदन",
+"summary": "पीड़ित महिला, संरक्षण अधिकारी या उसकी ओर से कोई अन्य व्यक्ति अधिनियम के अंतर्गत राहत प्राप्त करने के लिए मजिस्ट्रेट के समक्ष आवेदन प्रस्तुत कर सकता है।"
+}
+},
+"question": "Who can apply to the Magistrate for relief under this Act?",
+"answer": "An aggrieved person, a Protection Officer or any other person on behalf of the aggrieved person may present an application to the Magistrate seeking one or more reliefs under this Act.",
+"source": "Protection of Women from Domestic Violence Act, 2005",
+"page": 7
+},
+{
+"id": "WOMEN-015",
+"domain": "Women Rights",
+"category": "Domestic Violence",
+"subcategory": "Time Limit for Hearing",
+"act": "Protection of Women from Domestic Violence Act, 2005",
+"section": "Section 12",
+"old_law_reference": null,
+"applicable_to": [
+"Women"
+],
+"jurisdiction": "India",
+"severity": "Medium",
+"urgency": "High",
+"intent": [
+"hearing",
+"timeline",
+"court procedure"
+],
+"keywords": [
+"three days",
+"sixty days",
+"hearing",
+"application"
+],
+"search_text": "First hearing and disposal time under Domestic Violence Act",
+"translations": {
+"hi": {
+"title": "सुनवाई की समय सीमा",
+"summary": "मजिस्ट्रेट पहली सुनवाई सामान्यतः तीन दिनों के भीतर तय करेगा तथा आवेदन का निपटारा यथासंभव साठ दिनों के भीतर करने का प्रयास करेगा।"
+}
+},
+"question": "How soon should the Magistrate hear an application under this Act?",
+"answer": "The Magistrate shall ordinarily fix the first date of hearing within three days from the receipt of the application and shall endeavour to dispose of the application within sixty days from the first hearing.",
+"source": "Protection of Women from Domestic Violence Act, 2005",
+"page": 7
+},
+{
+"id": "WOMEN-016",
+"domain": "Women Rights",
+"category": "Domestic Violence",
+"subcategory": "Service of Notice",
+"act": "Protection of Women from Domestic Violence Act, 2005",
+"section": "Section 13",
+"old_law_reference": null,
+"applicable_to": [
+"Women",
+"Respondent"
+],
+"jurisdiction": "India",
+"severity": "Medium",
+"urgency": "Medium",
+"intent": [
+"notice",
+"court procedure",
+"respondent"
+],
+"keywords": [
+"notice",
+"protection officer",
+"service",
+"respondent"
+],
+"search_text": "Service of notice under Domestic Violence Act",
+"translations": {
+"hi": {
+"title": "नोटिस की तामील",
+"summary": "मजिस्ट्रेट द्वारा निर्धारित सुनवाई की सूचना संरक्षण अधिकारी के माध्यम से प्रतिवादी को निर्धारित अवधि में तामील कराई जाएगी।"
+}
+},
+"question": "How is notice served under this Act?",
+"answer": "The Magistrate gives the notice to the Protection Officer, who shall serve it on the respondent and any other person as directed by the Magistrate within the prescribed period. The declaration of service by the Protection Officer is proof of service unless proved otherwise.",
+"source": "Protection of Women from Domestic Violence Act, 2005",
+"page": 7
+},
+{
+"id": "WOMEN-017",
+"domain": "Women Rights",
+"category": "Domestic Violence",
+"subcategory": "Counselling",
+"act": "Protection of Women from Domestic Violence Act, 2005",
+"section": "Section 14",
+"old_law_reference": null,
+"applicable_to": [
+"Women",
+"Respondent"
+],
+"jurisdiction": "India",
+"severity": "Medium",
+"urgency": "Medium",
+"intent": [
+"counselling",
+"magistrate",
+"dispute resolution"
+],
+"keywords": [
+"counselling",
+"service provider",
+"magistrate"
+],
+"search_text": "Counselling under Protection of Women from Domestic Violence Act",
+"translations": {
+"hi": {
+"title": "परामर्श",
+"summary": "मजिस्ट्रेट किसी भी चरण में पक्षकारों को योग्य परामर्शदाता के पास परामर्श हेतु भेज सकता है।"
+}
+},
+"question": "Can the Magistrate order counselling under this Act?",
+"answer": "Yes. At any stage of the proceedings, the Magistrate may direct the respondent or the aggrieved person, either singly or jointly, to undergo counselling with a qualified member of a service provider.",
+"source": "Protection of Women from Domestic Violence Act, 2005",
+"page": 7
+},
+{
+"id": "WOMEN-018",
+"domain": "Women Rights",
+"category": "Domestic Violence",
+"subcategory": "In Camera Proceedings",
+"act": "Protection of Women from Domestic Violence Act, 2005",
+"section": "Section 16",
+"old_law_reference": null,
+"applicable_to": [
+"Women"
+],
+"jurisdiction": "India",
+"severity": "Medium",
+"urgency": "Medium",
+"intent": [
+"privacy",
+"court proceedings",
+"confidentiality"
+],
+"keywords": [
+"in camera",
+"private hearing",
+"court",
+"privacy"
+],
+"search_text": "In camera proceedings under Domestic Violence Act",
+"translations": {
+"hi": {
+"title": "बंद कक्ष में कार्यवाही",
+"summary": "यदि परिस्थितियां उचित हों और कोई पक्ष अनुरोध करे तो मजिस्ट्रेट बंद कक्ष में कार्यवाही कर सकता है।"
+}
+},
+"question": "Can proceedings under this Act be held privately?",
+"answer": "Yes. If the Magistrate considers it appropriate and either party so desires, the proceedings under this Act may be conducted in camera.",
+"source": "Protection of Women from Domestic Violence Act, 2005",
+"page": 8
+},
+{
+    "id": "WOMEN-013",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Government Duties",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 11",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Government",
+    "Women"
+    ],
+    "jurisdiction": "India",
+    "severity": "Medium",
+    "urgency": "Medium",
+    "intent": [
+    "government responsibilities",
+    "awareness",
+    "training"
+    ],
+    "keywords": [
+    "government",
+    "awareness",
+    "training",
+    "publicity",
+    "coordination"
+    ],
+    "search_text": "Duties of Central and State Government under Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "सरकार के कर्तव्य",
+    "summary": "केंद्र और राज्य सरकारों को अधिनियम का प्रचार, अधिकारियों का प्रशिक्षण तथा महिलाओं को सेवाएं उपलब्ध कराने के लिए समन्वय सुनिश्चित करना होगा।"
+    }
+    },
+    "question": "What are the duties of the Government under this Act?",
+    "answer": "The Central and State Governments shall publicize the Act, provide sensitization and awareness training to officials, establish coordination among concerned departments and prepare protocols for delivering services to women under the Act.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 7
+    },
+    {
+    "id": "WOMEN-014",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Application to Magistrate",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 12",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women"
+    ],
+    "jurisdiction": "India",
+    "severity": "High",
+    "urgency": "High",
+    "intent": [
+    "file application",
+    "magistrate",
+    "relief"
+    ],
+    "keywords": [
+    "application",
+    "magistrate",
+    "domestic incident report",
+    "relief"
+    ],
+    "search_text": "Application to Magistrate under Protection of Women from Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "मजिस्ट्रेट के समक्ष आवेदन",
+    "summary": "पीड़ित महिला, संरक्षण अधिकारी या उसकी ओर से कोई अन्य व्यक्ति अधिनियम के अंतर्गत राहत प्राप्त करने के लिए मजिस्ट्रेट के समक्ष आवेदन प्रस्तुत कर सकता है।"
+    }
+    },
+    "question": "Who can apply to the Magistrate for relief under this Act?",
+    "answer": "An aggrieved person, a Protection Officer or any other person on behalf of the aggrieved person may present an application to the Magistrate seeking one or more reliefs under this Act.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 7
+    },
+    {
+    "id": "WOMEN-015",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Time Limit for Hearing",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 12",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women"
+    ],
+    "jurisdiction": "India",
+    "severity": "Medium",
+    "urgency": "High",
+    "intent": [
+    "hearing",
+    "timeline",
+    "court procedure"
+    ],
+    "keywords": [
+    "three days",
+    "sixty days",
+    "hearing",
+    "application"
+    ],
+    "search_text": "First hearing and disposal time under Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "सुनवाई की समय सीमा",
+    "summary": "मजिस्ट्रेट पहली सुनवाई सामान्यतः तीन दिनों के भीतर तय करेगा तथा आवेदन का निपटारा यथासंभव साठ दिनों के भीतर करने का प्रयास करेगा।"
+    }
+    },
+    "question": "How soon should the Magistrate hear an application under this Act?",
+    "answer": "The Magistrate shall ordinarily fix the first date of hearing within three days from the receipt of the application and shall endeavour to dispose of the application within sixty days from the first hearing.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 7
+    },
+    {
+    "id": "WOMEN-016",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Service of Notice",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 13",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women",
+    "Respondent"
+    ],
+    "jurisdiction": "India",
+    "severity": "Medium",
+    "urgency": "Medium",
+    "intent": [
+    "notice",
+    "court procedure",
+    "respondent"
+    ],
+    "keywords": [
+    "notice",
+    "protection officer",
+    "service",
+    "respondent"
+    ],
+    "search_text": "Service of notice under Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "नोटिस की तामील",
+    "summary": "मजिस्ट्रेट द्वारा निर्धारित सुनवाई की सूचना संरक्षण अधिकारी के माध्यम से प्रतिवादी को निर्धारित अवधि में तामील कराई जाएगी।"
+    }
+    },
+    "question": "How is notice served under this Act?",
+    "answer": "The Magistrate gives the notice to the Protection Officer, who shall serve it on the respondent and any other person as directed by the Magistrate within the prescribed period. The declaration of service by the Protection Officer is proof of service unless proved otherwise.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 7
+    },
+    {
+    "id": "WOMEN-017",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "Counselling",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 14",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women",
+    "Respondent"
+    ],
+    "jurisdiction": "India",
+    "severity": "Medium",
+    "urgency": "Medium",
+    "intent": [
+    "counselling",
+    "magistrate",
+    "dispute resolution"
+    ],
+    "keywords": [
+    "counselling",
+    "service provider",
+    "magistrate"
+    ],
+    "search_text": "Counselling under Protection of Women from Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "परामर्श",
+    "summary": "मजिस्ट्रेट किसी भी चरण में पक्षकारों को योग्य परामर्शदाता के पास परामर्श हेतु भेज सकता है।"
+    }
+    },
+    "question": "Can the Magistrate order counselling under this Act?",
+    "answer": "Yes. At any stage of the proceedings, the Magistrate may direct the respondent or the aggrieved person, either singly or jointly, to undergo counselling with a qualified member of a service provider.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 7
+    },
+    {
+    "id": "WOMEN-018",
+    "domain": "Women Rights",
+    "category": "Domestic Violence",
+    "subcategory": "In Camera Proceedings",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 16",
+    "old_law_reference": null,
+    "applicable_to": [
+    "Women"
+    ],
+    "jurisdiction": "India",
+    "severity": "Medium",
+    "urgency": "Medium",
+    "intent": [
+    "privacy",
+    "court proceedings",
+    "confidentiality"
+    ],
+    "keywords": [
+    "in camera",
+    "private hearing",
+    "court",
+    "privacy"
+    ],
+    "search_text": "In camera proceedings under Domestic Violence Act",
+    "translations": {
+    "hi": {
+    "title": "बंद कक्ष में कार्यवाही",
+    "summary": "यदि परिस्थितियां उचित हों और कोई पक्ष अनुरोध करे तो मजिस्ट्रेट बंद कक्ष में कार्यवाही कर सकता है।"
+    }
+    },
+    "question": "Can proceedings under this Act be held privately?",
+    "answer": "Yes. If the Magistrate considers it appropriate and either party so desires, the proceedings under this Act may be conducted in camera.",
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "page": 8
+    },
+    {
+        "id": "WOMEN-019",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Right to Reside",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 17",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+        "residence rights",
+        "shared household",
+        "housing"
+        ],
+        "keywords": [
+        "right to reside",
+        "shared household",
+        "domestic relationship",
+        "residence"
+        ],
+        "search_text": "Right to reside in shared household under Protection of Women from Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "साझा गृह में रहने का अधिकार",
+        "summary": "घरेलू संबंध में रहने वाली प्रत्येक महिला को साझा गृह में रहने का अधिकार है, चाहे उसका उस संपत्ति में स्वामित्व या हित हो या नहीं।"
+        }
+        },
+        "question": "Does a woman have the right to live in the shared household?",
+        "answer": "Yes. Every woman in a domestic relationship has the right to reside in the shared household, whether or not she has any right, title or beneficial interest in it. She cannot be evicted or excluded except in accordance with the procedure established by law.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 8
+        },
+        {
+        "id": "WOMEN-020",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Protection Orders",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 18",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "Emergency",
+        "intent": [
+        "protection order",
+        "court order",
+        "stop violence"
+        ],
+        "keywords": [
+        "protection order",
+        "magistrate",
+        "domestic violence",
+        "respondent"
+        ],
+        "search_text": "Protection order under Domestic Violence Act Section 18",
+        "translations": {
+        "hi": {
+        "title": "संरक्षण आदेश",
+        "summary": "यदि मजिस्ट्रेट प्रथम दृष्टया संतुष्ट हो कि घरेलू हिंसा हुई है या होने की संभावना है, तो वह संरक्षण आदेश जारी कर सकता है।"
+        }
+        },
+        "question": "What is a protection order under this Act?",
+        "answer": "After giving both parties an opportunity of being heard and being prima facie satisfied that domestic violence has taken place or is likely to take place, the Magistrate may pass a protection order prohibiting the respondent from committing or aiding domestic violence and from other specified acts.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 8
+        },
+        {
+        "id": "WOMEN-021",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Residence Orders",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 19",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+        "residence order",
+        "housing protection",
+        "shared household"
+        ],
+        "keywords": [
+        "residence order",
+        "shared household",
+        "alternate accommodation",
+        "respondent"
+        ],
+        "search_text": "Residence order under Protection of Women from Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "निवास आदेश",
+        "summary": "मजिस्ट्रेट साझा गृह से बेदखली रोकने, वैकल्पिक आवास उपलब्ध कराने या अन्य आवश्यक निवास संबंधी आदेश पारित कर सकता है।"
+        }
+        },
+        "question": "What residence orders can the Magistrate pass?",
+        "answer": "The Magistrate may restrain the respondent from dispossessing the aggrieved person, direct the respondent to remove himself from the shared household, restrict entry into portions of the household, prevent disposal of the shared household, or direct alternate accommodation or payment of rent, as provided under the Act.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 8
+        },
+        {
+        "id": "WOMEN-022",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Monetary Relief",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 20",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women",
+        "Children"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+        "financial relief",
+        "maintenance",
+        "compensation"
+        ],
+        "keywords": [
+        "monetary relief",
+        "maintenance",
+        "medical expenses",
+        "loss of earnings",
+        "property damage"
+        ],
+        "search_text": "Monetary relief under Domestic Violence Act Section 20",
+        "translations": {
+        "hi": {
+        "title": "आर्थिक राहत",
+        "summary": "मजिस्ट्रेट घरेलू हिंसा के कारण हुए खर्च, आय की हानि, चिकित्सा व्यय, संपत्ति की क्षति तथा भरण-पोषण के लिए आर्थिक राहत का आदेश दे सकता है।"
+        }
+        },
+        "question": "What monetary relief can be granted under this Act?",
+        "answer": "The Magistrate may direct the respondent to pay monetary relief for expenses and losses suffered due to domestic violence, including loss of earnings, medical expenses, property damage, and maintenance for the aggrieved person and her children. The relief should be adequate, fair and reasonable.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 9
+        },
+        {
+        "id": "WOMEN-023",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Custody Orders",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 21",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women",
+        "Children"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+        "child custody",
+        "temporary custody",
+        "child safety"
+        ],
+        "keywords": [
+        "custody order",
+        "temporary custody",
+        "child",
+        "visitation"
+        ],
+        "search_text": "Custody order under Protection of Women from Domestic Violence Act",
+        "translations": {
+        "hi": {
+        "title": "अभिरक्षा आदेश",
+        "summary": "मजिस्ट्रेट पीड़ित महिला को बच्चे की अस्थायी अभिरक्षा दे सकता है तथा आवश्यक होने पर मुलाकात की व्यवस्था निर्धारित कर सकता है।"
+        }
+        },
+        "question": "Can the Magistrate grant child custody under this Act?",
+        "answer": "Yes. At any stage of the proceedings, the Magistrate may grant temporary custody of a child to the aggrieved person or the person applying on her behalf and may specify arrangements for visitation. If visitation may harm the child, it may be refused.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 9
+        },
+        {
+        "id": "WOMEN-024",
+        "domain": "Women Rights",
+        "category": "Domestic Violence",
+        "subcategory": "Compensation Orders",
+        "act": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Section 22",
+        "old_law_reference": null,
+        "applicable_to": [
+        "Women"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+        "compensation",
+        "damages",
+        "mental torture"
+        ],
+        "keywords": [
+        "compensation",
+        "damages",
+        "mental torture",
+        "emotional distress"
+        ],
+        "search_text": "Compensation order under Domestic Violence Act Section 22",
+        "translations": {
+        "hi": {
+        "title": "प्रतिकर आदेश",
+        "summary": "मजिस्ट्रेट घरेलू हिंसा से हुई शारीरिक, मानसिक और भावनात्मक क्षति के लिए प्रतिकर और हर्जाना देने का आदेश दे सकता है।"
+        }
+        },
+        "question": "Can an aggrieved woman receive compensation under this Act?",
+        "answer": "Yes. In addition to other reliefs under the Act, the Magistrate may direct the respondent to pay compensation and damages for injuries, including mental torture and emotional distress, caused by acts of domestic violence.",
+        "source": "Protection of Women from Domestic Violence Act, 2005",
+        "page": 10
+        },
+        {
+            "id": "WOMEN-025",
+            "domain": "Women Rights",
+            "category": "Domestic Violence",
+            "subcategory": "Interim and Ex Parte Orders",
+            "act": "Protection of Women from Domestic Violence Act, 2005",
+            "section": "Section 23",
+            "old_law_reference": null,
+            "applicable_to": [
+              "Women"
+            ],
+            "jurisdiction": "India",
+            "severity": "High",
+            "urgency": "Emergency",
+            "intent": [
+              "interim relief",
+              "urgent protection",
+              "court order"
+            ],
+            "keywords": [
+              "interim order",
+              "ex parte order",
+              "affidavit",
+              "urgent relief",
+              "magistrate"
+            ],
+            "search_text": "Interim and ex parte orders under Protection of Women from Domestic Violence Act",
+            "translations": {
+              "hi": {
+                "title": "अंतरिम एवं एकपक्षीय आदेश",
+                "summary": "मजिस्ट्रेट आवश्यक होने पर अंतरिम आदेश या पीड़ित महिला के शपथपत्र के आधार पर एकपक्षीय आदेश पारित कर सकता है।"
+              }
+            },
+            "question": "Can a Magistrate grant urgent relief before the final hearing?",
+            "answer": "Yes. The Magistrate may pass interim orders and may grant ex parte orders on the basis of the affidavit of the aggrieved person if there is a prima facie case that the respondent has committed or is likely to commit domestic violence.",
+            "source": "Protection of Women from Domestic Violence Act, 2005",
+            "page": 10
+          },
+          {
+            "id": "WOMEN-026",
+            "domain": "Women Rights",
+            "category": "Domestic Violence",
+            "subcategory": "Free Copy of Orders",
+            "act": "Protection of Women from Domestic Violence Act, 2005",
+            "section": "Section 24",
+            "old_law_reference": null,
+            "applicable_to": [
+              "Women"
+            ],
+            "jurisdiction": "India",
+            "severity": "Low",
+            "urgency": "Low",
+            "intent": [
+              "court order",
+              "copy of order",
+              "legal documents"
+            ],
+            "keywords": [
+              "free copy",
+              "court order",
+              "magistrate",
+              "service provider",
+              "police"
+            ],
+            "search_text": "Free copy of court order under Domestic Violence Act",
+            "translations": {
+              "hi": {
+                "title": "आदेश की निःशुल्क प्रति",
+                "summary": "मजिस्ट्रेट अधिनियम के अंतर्गत पारित आदेश की प्रति संबंधित पक्षों, पुलिस तथा सेवा प्रदाता को निःशुल्क उपलब्ध कराएगा।"
+              }
+            },
+            "question": "Are copies of court orders provided free of cost?",
+            "answer": "Yes. The Magistrate shall provide copies of every order passed under the Act free of cost to the parties, the police officer in charge of the concerned police station and the relevant service provider.",
+            "source": "Protection of Women from Domestic Violence Act, 2005",
+            "page": 10
+          },
+          {
+            "id": "WOMEN-027",
+            "domain": "Women Rights",
+            "category": "Domestic Violence",
+            "subcategory": "Duration and Modification of Orders",
+            "act": "Protection of Women from Domestic Violence Act, 2005",
+            "section": "Section 25",
+            "old_law_reference": null,
+            "applicable_to": [
+              "Women",
+              "Respondent"
+            ],
+            "jurisdiction": "India",
+            "severity": "Medium",
+            "urgency": "Medium",
+            "intent": [
+              "duration",
+              "modify order",
+              "revoke order"
+            ],
+            "keywords": [
+              "duration",
+              "alteration",
+              "modification",
+              "revocation",
+              "protection order"
+            ],
+            "search_text": "Duration and alteration of protection orders under Domestic Violence Act",
+            "translations": {
+              "hi": {
+                "title": "आदेश की अवधि एवं संशोधन",
+                "summary": "संरक्षण आदेश तब तक प्रभावी रहता है जब तक पीड़ित महिला उसके निरसन का आवेदन न करे। परिस्थितियों में परिवर्तन होने पर मजिस्ट्रेट आदेश में संशोधन या निरस्तीकरण कर सकता है।"
+              }
+            },
+            "question": "Can a protection order be modified or revoked?",
+            "answer": "Yes. A protection order remains in force until the aggrieved person applies for its discharge. If circumstances change, the Magistrate may alter, modify or revoke the order after recording reasons in writing.",
+            "source": "Protection of Women from Domestic Violence Act, 2005",
+            "page": 10
+          },
+          {
+            "id": "WOMEN-028",
+            "domain": "Women Rights",
+            "category": "Domestic Violence",
+            "subcategory": "Relief in Other Legal Proceedings",
+            "act": "Protection of Women from Domestic Violence Act, 2005",
+            "section": "Section 26",
+            "old_law_reference": null,
+            "applicable_to": [
+              "Women"
+            ],
+            "jurisdiction": "India",
+            "severity": "Medium",
+            "urgency": "Medium",
+            "intent": [
+              "civil court",
+              "family court",
+              "criminal court"
+            ],
+            "keywords": [
+              "other proceedings",
+              "family court",
+              "civil court",
+              "criminal court",
+              "relief"
+            ],
+            "search_text": "Relief in other legal proceedings under Domestic Violence Act",
+            "translations": {
+              "hi": {
+                "title": "अन्य न्यायिक कार्यवाहियों में राहत",
+                "summary": "अधिनियम के अंतर्गत उपलब्ध राहतें दीवानी, पारिवारिक अथवा आपराधिक न्यायालय की अन्य कार्यवाहियों में भी मांगी जा सकती हैं।"
+              }
+            },
+            "question": "Can relief under this Act be claimed in other court proceedings?",
+            "answer": "Yes. Reliefs available under sections 18, 19, 20, 21 and 22 may also be sought in proceedings before a civil court, family court or criminal court, in addition to any other relief available under law.",
+            "source": "Protection of Women from Domestic Violence Act, 2005",
+            "page": 10
+          },
+          {
+            "id": "WOMEN-029",
+            "domain": "Women Rights",
+            "category": "Domestic Violence",
+            "subcategory": "Jurisdiction",
+            "act": "Protection of Women from Domestic Violence Act, 2005",
+            "section": "Section 27",
+            "old_law_reference": null,
+            "applicable_to": [
+              "Women"
+            ],
+            "jurisdiction": "India",
+            "severity": "Medium",
+            "urgency": "Medium",
+            "intent": [
+              "jurisdiction",
+              "court",
+              "filing"
+            ],
+            "keywords": [
+              "jurisdiction",
+              "magistrate",
+              "court",
+              "residence",
+              "cause of action"
+            ],
+            "search_text": "Jurisdiction under Protection of Women from Domestic Violence Act",
+            "translations": {
+              "hi": {
+                "title": "क्षेत्राधिकार",
+                "summary": "पीड़ित महिला जहां रहती है, कार्य करती है, प्रतिवादी रहता है या जहां घटना हुई है, वहां का सक्षम मजिस्ट्रेट इस अधिनियम के अंतर्गत मामलों की सुनवाई कर सकता है।"
+              }
+            },
+            "question": "Which court has jurisdiction under this Act?",
+            "answer": "The Judicial Magistrate of the First Class or Metropolitan Magistrate within whose jurisdiction the aggrieved person resides, works, the respondent resides or works, or where the cause of action arose, is competent to grant relief under this Act. Orders are enforceable throughout India.",
+            "source": "Protection of Women from Domestic Violence Act, 2005",
+            "page": 10
+          },
+          {
+            "id": "WOMEN-030",
+            "domain": "Women Rights",
+            "category": "Domestic Violence",
+            "subcategory": "Penalty for Breach of Protection Order",
+            "act": "Protection of Women from Domestic Violence Act, 2005",
+            "section": "Section 31",
+            "old_law_reference": null,
+            "applicable_to": [
+              "Respondent"
+            ],
+            "jurisdiction": "India",
+            "severity": "High",
+            "urgency": "High",
+            "intent": [
+              "penalty",
+              "breach of order",
+              "punishment"
+            ],
+            "keywords": [
+              "section 31",
+              "breach",
+              "imprisonment",
+              "fine",
+              "offence"
+            ],
+            "search_text": "Penalty for breach of protection order under Domestic Violence Act",
+            "translations": {
+              "hi": {
+                "title": "संरक्षण आदेश के उल्लंघन की सजा",
+                "summary": "संरक्षण आदेश या अंतरिम संरक्षण आदेश का उल्लंघन अपराध है, जिसके लिए एक वर्ष तक का कारावास, बीस हजार रुपये तक का जुर्माना या दोनों हो सकते हैं।"
+              }
+            },
+            "question": "What is the punishment for violating a protection order?",
+            "answer": "A breach of a protection order or interim protection order is an offence punishable with imprisonment of either description for a term which may extend to one year, or with fine which may extend to twenty thousand rupees, or with both.",
+            "source": "Protection of Women from Domestic Violence Act, 2005",
+            "page": 11
+          }
+        ]

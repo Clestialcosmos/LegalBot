@@ -1,0 +1,1112 @@
+[
+    {
+      "id": "SENIOR-001",
+      "domain": "Senior Citizens",
+      "category": "Maintenance and Welfare",
+      "subcategory": "Purpose and Scope",
+      "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "section": "Section 1",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parents",
+        "Senior Citizens"
+      ],
+      "jurisdiction": "India",
+      "severity": "Low",
+      "urgency": "Low",
+      "intent": [
+        "purpose",
+        "scope",
+        "act"
+      ],
+      "keywords": [
+        "senior citizens",
+        "parents",
+        "maintenance",
+        "welfare",
+        "2007"
+      ],
+      "search_text": "Purpose of Maintenance and Welfare of Parents and Senior Citizens Act 2007",
+      "translations": {
+        "hi": {
+          "title": "माता-पिता एवं वरिष्ठ नागरिकों का भरण-पोषण एवं कल्याण अधिनियम, 2007",
+          "summary": "यह अधिनियम माता-पिता एवं वरिष्ठ नागरिकों के भरण-पोषण और कल्याण के लिए प्रभावी प्रावधान प्रदान करता है।"
+        }
+      },
+      "question": "What is the purpose of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007?",
+      "answer": "The Act provides for more effective provisions for the maintenance and welfare of parents and senior citizens guaranteed and recognised under the Constitution and for matters connected therewith or incidental thereto.",
+      "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "page": 1
+    },
+    {
+      "id": "SENIOR-002",
+      "domain": "Senior Citizens",
+      "category": "Definitions",
+      "subcategory": "Senior Citizen",
+      "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "section": "Section 2(h)",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Senior Citizens"
+      ],
+      "jurisdiction": "India",
+      "severity": "Low",
+      "urgency": "Low",
+      "intent": [
+        "definition",
+        "senior citizen"
+      ],
+      "keywords": [
+        "senior citizen",
+        "60 years",
+        "definition"
+      ],
+      "search_text": "Who is a senior citizen under the Act",
+      "translations": {
+        "hi": {
+          "title": "वरिष्ठ नागरिक",
+          "summary": "वरिष्ठ नागरिक वह भारतीय नागरिक है जिसकी आयु साठ वर्ष या उससे अधिक हो।"
+        }
+      },
+      "question": "Who is a senior citizen under this Act?",
+      "answer": "A senior citizen means any person who is a citizen of India and has attained the age of sixty years or above.",
+      "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "page": 2
+    },
+    {
+      "id": "SENIOR-003",
+      "domain": "Senior Citizens",
+      "category": "Definitions",
+      "subcategory": "Parent",
+      "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "section": "Section 2(d)",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parents"
+      ],
+      "jurisdiction": "India",
+      "severity": "Low",
+      "urgency": "Low",
+      "intent": [
+        "definition",
+        "parent"
+      ],
+      "keywords": [
+        "parent",
+        "biological",
+        "adoptive",
+        "step parent"
+      ],
+      "search_text": "Definition of parent under Senior Citizens Act",
+      "translations": {
+        "hi": {
+          "title": "माता-पिता",
+          "summary": "माता-पिता में जैविक, दत्तक तथा सौतेले माता-पिता शामिल हैं, चाहे वे वरिष्ठ नागरिक हों या नहीं।"
+        }
+      },
+      "question": "Who is considered a parent under this Act?",
+      "answer": "Parent means father or mother, whether biological, adoptive or step father or step mother, whether or not the father or mother is a senior citizen.",
+      "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "page": 2
+    },
+    {
+      "id": "SENIOR-004",
+      "domain": "Senior Citizens",
+      "category": "Definitions",
+      "subcategory": "Maintenance",
+      "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "section": "Section 2(b)",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parents",
+        "Senior Citizens"
+      ],
+      "jurisdiction": "India",
+      "severity": "Medium",
+      "urgency": "Medium",
+      "intent": [
+        "maintenance",
+        "definition"
+      ],
+      "keywords": [
+        "maintenance",
+        "food",
+        "clothing",
+        "residence",
+        "medical treatment"
+      ],
+      "search_text": "Meaning of maintenance under Senior Citizens Act",
+      "translations": {
+        "hi": {
+          "title": "भरण-पोषण",
+          "summary": "भरण-पोषण में भोजन, वस्त्र, आवास तथा चिकित्सा उपचार की व्यवस्था शामिल है।"
+        }
+      },
+      "question": "What does maintenance include under this Act?",
+      "answer": "Maintenance includes provision for food, clothing, residence and medical attendance and treatment.",
+      "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "page": 2
+    },
+    {
+      "id": "SENIOR-005",
+      "domain": "Senior Citizens",
+      "category": "Maintenance",
+      "subcategory": "Right to Maintenance",
+      "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "section": "Section 4",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parents",
+        "Senior Citizens"
+      ],
+      "jurisdiction": "India",
+      "severity": "High",
+      "urgency": "High",
+      "intent": [
+        "maintenance",
+        "eligibility"
+      ],
+      "keywords": [
+        "maintenance",
+        "children",
+        "relative",
+        "application"
+      ],
+      "search_text": "Who can claim maintenance under Senior Citizens Act",
+      "translations": {
+        "hi": {
+          "title": "भरण-पोषण का अधिकार",
+          "summary": "जो वरिष्ठ नागरिक या माता-पिता स्वयं अपना भरण-पोषण नहीं कर सकते, वे अपने बच्चों या पात्र रिश्तेदारों से भरण-पोषण की मांग कर सकते हैं।"
+        }
+      },
+      "question": "Who can claim maintenance under this Act?",
+      "answer": "A senior citizen, including a parent, who is unable to maintain himself from his own earnings or property may seek maintenance from one or more children who are not minors or, in the case of a childless senior citizen, from a relative as provided under the Act.",
+      "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "page": 2
+    },
+    {
+      "id": "SENIOR-006",
+      "domain": "Senior Citizens",
+      "category": "Maintenance",
+      "subcategory": "Duty of Children and Relatives",
+      "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "section": "Section 4(2), 4(3), 4(4)",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Children",
+        "Relatives"
+      ],
+      "jurisdiction": "India",
+      "severity": "High",
+      "urgency": "High",
+      "intent": [
+        "legal duty",
+        "maintenance"
+      ],
+      "keywords": [
+        "children",
+        "relative",
+        "normal life",
+        "maintenance obligation"
+      ],
+      "search_text": "Obligation of children and relatives under Senior Citizens Act",
+      "translations": {
+        "hi": {
+          "title": "बच्चों एवं रिश्तेदारों का दायित्व",
+          "summary": "बच्चों और पात्र रिश्तेदारों का दायित्व है कि वे वरिष्ठ नागरिक या माता-पिता का भरण-पोषण करें ताकि वे सामान्य जीवन जी सकें।"
+        }
+      },
+      "question": "What is the responsibility of children and relatives under this Act?",
+      "answer": "Children and, where applicable, relatives having sufficient means are obligated to maintain parents or senior citizens so that they may lead a normal life. A relative is liable where he possesses or would inherit the property of a childless senior citizen, and where multiple relatives are entitled to inherit, the maintenance is payable in proportion to their expected share.",
+      "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+      "page": 2
+    },
+    {
+        "id": "SENIOR-007",
+        "domain": "Senior Citizens",
+        "category": "Maintenance",
+        "subcategory": "Application for Maintenance",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 5(1)",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+          "maintenance application",
+          "tribunal"
+        ],
+        "keywords": [
+          "application",
+          "maintenance",
+          "organisation",
+          "tribunal",
+          "suo motu"
+        ],
+        "search_text": "Who can apply for maintenance under Senior Citizens Act section 5",
+        "translations": {
+          "hi": {
+            "title": "भरण-पोषण हेतु आवेदन",
+            "summary": "भरण-पोषण के लिए आवेदन वरिष्ठ नागरिक, माता-पिता, उनके अधिकृत व्यक्ति या संगठन द्वारा किया जा सकता है तथा न्यायाधिकरण स्वयं भी संज्ञान ले सकता है।"
+          }
+        },
+        "question": "Who can file an application for maintenance under this Act?",
+        "answer": "An application for maintenance may be made by a senior citizen or parent, by any other person or organisation authorised by them if they are incapable, or the Tribunal may take cognizance suo motu.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 3
+      },
+      {
+        "id": "SENIOR-008",
+        "domain": "Senior Citizens",
+        "category": "Maintenance",
+        "subcategory": "Interim Maintenance",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 5(2)",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+          "interim maintenance",
+          "monthly allowance"
+        ],
+        "keywords": [
+          "interim maintenance",
+          "monthly allowance",
+          "tribunal"
+        ],
+        "search_text": "Interim maintenance under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "अंतरिम भरण-पोषण",
+            "summary": "कार्यवाही लंबित रहने के दौरान न्यायाधिकरण अंतरिम मासिक भरण-पोषण भत्ता देने का आदेश दे सकता है।"
+          }
+        },
+        "question": "Can the Tribunal grant interim maintenance?",
+        "answer": "Yes. During the pendency of maintenance proceedings, the Tribunal may order the children or relative to pay a monthly allowance towards the interim maintenance of the senior citizen or parent.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 3
+      },
+      {
+        "id": "SENIOR-009",
+        "domain": "Senior Citizens",
+        "category": "Maintenance",
+        "subcategory": "Time Limit for Disposal",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 5(4)",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "High",
+        "intent": [
+          "timeline",
+          "maintenance case"
+        ],
+        "keywords": [
+          "90 days",
+          "30 days extension",
+          "tribunal"
+        ],
+        "search_text": "Time limit for disposal of maintenance application under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "आवेदन के निस्तारण की समय सीमा",
+            "summary": "भरण-पोषण आवेदन का निस्तारण सामान्यतः 90 दिनों में किया जाएगा, जिसे विशेष परिस्थितियों में अधिकतम 30 दिन बढ़ाया जा सकता है।"
+          }
+        },
+        "question": "How long does the Tribunal take to decide a maintenance application?",
+        "answer": "The Tribunal shall dispose of the application within ninety days from the date of service of notice. In exceptional circumstances, it may extend the period once by a maximum of thirty days after recording reasons in writing.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 3
+      },
+      {
+        "id": "SENIOR-010",
+        "domain": "Senior Citizens",
+        "category": "Maintenance",
+        "subcategory": "Failure to Comply with Maintenance Order",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 5(8)",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Children",
+          "Relatives"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+          "non-compliance",
+          "maintenance order"
+        ],
+        "keywords": [
+          "warrant",
+          "imprisonment",
+          "maintenance order",
+          "default"
+        ],
+        "search_text": "Penalty for failure to comply with maintenance order under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "भरण-पोषण आदेश का पालन न करना",
+            "summary": "यदि आदेश का पालन नहीं किया जाता, तो न्यायाधिकरण वसूली हेतु वारंट जारी कर सकता है और एक माह तक कारावास का आदेश दे सकता है।"
+          }
+        },
+        "question": "What happens if a maintenance order is not followed?",
+        "answer": "If the children or relative fail without sufficient cause to comply with the maintenance order, the Tribunal may issue a warrant to recover the amount due and may sentence the defaulter to imprisonment for a term extending to one month or until payment is made, whichever is earlier.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 3
+      },
+      {
+        "id": "SENIOR-011",
+        "domain": "Senior Citizens",
+        "category": "Maintenance Tribunal",
+        "subcategory": "Jurisdiction and Procedure",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 6",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "tribunal",
+          "jurisdiction"
+        ],
+        "keywords": [
+          "jurisdiction",
+          "tribunal",
+          "conciliation",
+          "summons"
+        ],
+        "search_text": "Jurisdiction and procedure of Maintenance Tribunal under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "न्यायाधिकरण का क्षेत्राधिकार",
+            "summary": "कार्यवाही उस जिले में की जा सकती है जहाँ वरिष्ठ नागरिक या संबंधित बच्चे/रिश्तेदार रहते हों। न्यायाधिकरण सुलह अधिकारी को भी मामला भेज सकता है।"
+          }
+        },
+        "question": "Where can maintenance proceedings be filed?",
+        "answer": "Proceedings may be taken in the district where the senior citizen or parent resides or last resided, or where the children or relative resides. Before hearing the application, the Tribunal may also refer the matter to a Conciliation Officer for an amicable settlement.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 4
+      },
+      {
+        "id": "SENIOR-012",
+        "domain": "Senior Citizens",
+        "category": "Maintenance Tribunal",
+        "subcategory": "Constitution of Tribunal",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 7",
+        "old_law_reference": null,
+        "applicable_to": [
+          "State Governments",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Low",
+        "urgency": "Low",
+        "intent": [
+          "maintenance tribunal",
+          "constitution"
+        ],
+        "keywords": [
+          "tribunal",
+          "sub-divisional officer",
+          "state government"
+        ],
+        "search_text": "Constitution of Maintenance Tribunal under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "भरण-पोषण न्यायाधिकरण का गठन",
+            "summary": "राज्य सरकार प्रत्येक उपखंड में भरण-पोषण न्यायाधिकरण गठित करेगी, जिसकी अध्यक्षता उपखंड अधिकारी से कम रैंक का अधिकारी नहीं करेगा।"
+          }
+        },
+        "question": "Who constitutes the Maintenance Tribunal under this Act?",
+        "answer": "The State Government shall constitute one or more Maintenance Tribunals for each Sub-division by notification. Each Tribunal shall be presided over by an officer not below the rank of a Sub-Divisional Officer of the State.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 4
+      },
+      {
+        "id": "SENIOR-013",
+        "domain": "Senior Citizens",
+        "category": "Maintenance Tribunal",
+        "subcategory": "Summary Procedure",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 8",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "tribunal procedure",
+          "summary proceedings"
+        ],
+        "keywords": [
+          "summary procedure",
+          "tribunal",
+          "evidence",
+          "civil court"
+        ],
+        "search_text": "Summary procedure of Maintenance Tribunal under Senior Citizens Act section 8",
+        "translations": {
+          "hi": {
+            "title": "संक्षिप्त प्रक्रिया",
+            "summary": "भरण-पोषण न्यायाधिकरण संक्षिप्त प्रक्रिया अपनाता है तथा उसे सिविल न्यायालय की कुछ शक्तियाँ प्राप्त होती हैं।"
+          }
+        },
+        "question": "How does the Maintenance Tribunal conduct proceedings?",
+        "answer": "The Tribunal shall have the power to follow a summary procedure for inquiry. It shall have the powers of a Civil Court for taking evidence on oath, enforcing attendance of witnesses and compelling the production of documents and other prescribed purposes.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 5
+      },
+      {
+        "id": "SENIOR-014",
+        "domain": "Senior Citizens",
+        "category": "Maintenance Tribunal",
+        "subcategory": "Representation",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 9",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens",
+          "Children",
+          "Relatives"
+        ],
+        "jurisdiction": "India",
+        "severity": "Low",
+        "urgency": "Low",
+        "intent": [
+          "legal representation",
+          "advocate"
+        ],
+        "keywords": [
+          "legal practitioner",
+          "representation",
+          "advocate"
+        ],
+        "search_text": "Legal representation before Maintenance Tribunal under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "विधिक प्रतिनिधित्व",
+            "summary": "इस अधिनियम के अंतर्गत न्यायाधिकरण के समक्ष किसी भी पक्ष का प्रतिनिधित्व अधिवक्ता द्वारा नहीं किया जा सकता।"
+          }
+        },
+        "question": "Can a lawyer represent a party before the Maintenance Tribunal?",
+        "answer": "No. No party to a proceeding before a Maintenance Tribunal or Appellate Tribunal shall be represented by a legal practitioner.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 5
+      },
+      {
+        "id": "SENIOR-015",
+        "domain": "Senior Citizens",
+        "category": "Maintenance Tribunal",
+        "subcategory": "Maintenance Officer",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 18",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "maintenance officer",
+          "assistance"
+        ],
+        "keywords": [
+          "maintenance officer",
+          "district social welfare officer",
+          "assistance"
+        ],
+        "search_text": "Maintenance Officer under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "भरण-पोषण अधिकारी",
+            "summary": "राज्य सरकार प्रत्येक जिले में भरण-पोषण अधिकारी नियुक्त कर सकती है जो वरिष्ठ नागरिकों की सहायता करेगा।"
+          }
+        },
+        "question": "Who is the Maintenance Officer under this Act?",
+        "answer": "The State Government may designate the District Social Welfare Officer or an officer not below the rank of District Social Welfare Officer as the Maintenance Officer to represent and assist senior citizens before the Tribunal.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 7
+      },
+      {
+        "id": "SENIOR-016",
+        "domain": "Senior Citizens",
+        "category": "Appeal",
+        "subcategory": "Appellate Tribunal",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 15",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens",
+          "Children",
+          "Relatives"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "appeal",
+          "appellate tribunal"
+        ],
+        "keywords": [
+          "appeal",
+          "appellate tribunal",
+          "district magistrate"
+        ],
+        "search_text": "Appellate Tribunal under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "अपीलीय न्यायाधिकरण",
+            "summary": "राज्य सरकार प्रत्येक जिले के लिए एक अपीलीय न्यायाधिकरण गठित करती है।"
+          }
+        },
+        "question": "Who constitutes the Appellate Tribunal under this Act?",
+        "answer": "The State Government shall constitute for each district an Appellate Tribunal to hear appeals against the orders of the Maintenance Tribunal.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 6
+      },
+      {
+        "id": "SENIOR-017",
+        "domain": "Senior Citizens",
+        "category": "Appeal",
+        "subcategory": "Appeal Procedure",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 16",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens",
+          "Children",
+          "Relatives"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "appeal",
+          "time limit"
+        ],
+        "keywords": [
+          "appeal",
+          "60 days",
+          "appellate tribunal"
+        ],
+        "search_text": "Appeal time limit under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "अपील की समय सीमा",
+            "summary": "भरण-पोषण न्यायाधिकरण के आदेश के विरुद्ध साठ दिनों के भीतर अपील की जा सकती है।"
+          }
+        },
+        "question": "Within what time can an appeal be filed under this Act?",
+        "answer": "Any senior citizen, parent, child or relative aggrieved by an order of the Maintenance Tribunal may prefer an appeal to the Appellate Tribunal within sixty days from the date of the order. The Appellate Tribunal may condone delay if sufficient cause is shown.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 6
+      },
+      {
+        "id": "SENIOR-018",
+        "domain": "Senior Citizens",
+        "category": "Maintenance",
+        "subcategory": "Maximum Maintenance Amount",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 9",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "maintenance amount",
+          "monthly allowance"
+        ],
+        "keywords": [
+          "maximum maintenance",
+          "ten thousand",
+          "monthly allowance"
+        ],
+        "search_text": "Maximum maintenance amount under Senior Citizens Act section 9",
+        "translations": {
+          "hi": {
+            "title": "अधिकतम मासिक भरण-पोषण",
+            "summary": "न्यायाधिकरण राज्य सरकार द्वारा निर्धारित सीमा के अधीन प्रति माह अधिकतम दस हजार रुपये तक भरण-पोषण भत्ता देने का आदेश दे सकता है।"
+          }
+        },
+        "question": "What is the maximum monthly maintenance under this Act?",
+        "answer": "If children or relatives neglect or refuse to maintain a senior citizen or parent, the Tribunal may order a monthly maintenance allowance at such monthly rate as may be fixed by the State Government, subject to a maximum of ten thousand rupees per month under the Act.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 5
+      },
+      {
+        "id": "SENIOR-019",
+        "domain": "Senior Citizens",
+        "category": "Transfer of Property",
+        "subcategory": "Transfer Declared Void",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 23(1)",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Senior Citizens",
+          "Parents"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+          "property transfer",
+          "maintenance",
+          "cancellation"
+        ],
+        "keywords": [
+          "transfer of property",
+          "void transfer",
+          "maintenance",
+          "basic amenities",
+          "senior citizen"
+        ],
+        "search_text": "When can transfer of property be declared void under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "संपत्ति का हस्तांतरण शून्य घोषित करना",
+            "summary": "यदि वरिष्ठ नागरिक ने भरण-पोषण की शर्त पर संपत्ति हस्तांतरित की हो और हस्तांतरणी मूलभूत सुविधाएं व देखभाल न दे, तो हस्तांतरण शून्य घोषित किया जा सकता है।"
+          }
+        },
+        "question": "When can a property transfer by a senior citizen be declared void?",
+        "answer": "Where a senior citizen has transferred property subject to the condition that the transferee shall provide basic amenities and physical needs, and the transferee refuses or fails to do so, the transfer shall be deemed to have been made by fraud, coercion or undue influence and may be declared void by the Tribunal.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 8
+      },
+      {
+        "id": "SENIOR-020",
+        "domain": "Senior Citizens",
+        "category": "Transfer of Property",
+        "subcategory": "Right Against Transferee",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 23(2)",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+          "maintenance rights",
+          "property",
+          "transferee"
+        ],
+        "keywords": [
+          "transferee",
+          "maintenance",
+          "property rights"
+        ],
+        "search_text": "Maintenance rights against transferee under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "हस्तांतरणी के विरुद्ध भरण-पोषण का अधिकार",
+            "summary": "यदि संपत्ति हस्तांतरित हो गई हो, तो वरिष्ठ नागरिक निर्धारित परिस्थितियों में हस्तांतरणी के विरुद्ध भरण-पोषण का अधिकार लागू कर सकता है।"
+          }
+        },
+        "question": "Can a senior citizen enforce maintenance against a transferee of property?",
+        "answer": "Yes. Where a senior citizen has a right to receive maintenance out of an estate and the estate or part of it is transferred, the right to maintenance may be enforced against the transferee if the transferee had notice of the right or if the transfer was gratuitous.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 8
+      },
+      {
+        "id": "SENIOR-021",
+        "domain": "Senior Citizens",
+        "category": "Representation",
+        "subcategory": "Action on Behalf of Senior Citizen",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 23(3)",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Senior Citizens",
+          "Registered Organisations"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "representation",
+          "organisation",
+          "legal assistance"
+        ],
+        "keywords": [
+          "registered organisation",
+          "representation",
+          "tribunal"
+        ],
+        "search_text": "Who can act on behalf of senior citizen under section 23",
+        "translations": {
+          "hi": {
+            "title": "वरिष्ठ नागरिक की ओर से कार्यवाही",
+            "summary": "यदि वरिष्ठ नागरिक स्वयं कार्यवाही करने में असमर्थ हो तो पंजीकृत संगठन उसकी ओर से आवेदन कर सकता है।"
+          }
+        },
+        "question": "Who can initiate proceedings if a senior citizen cannot do so?",
+        "answer": "Where a senior citizen is incapable of enforcing the rights under section 23, an organisation referred to in the Act may take action on behalf of the senior citizen.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 8
+      },
+      {
+        "id": "SENIOR-022",
+        "domain": "Senior Citizens",
+        "category": "Welfare Measures",
+        "subcategory": "Old Age Homes",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 19",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "old age home",
+          "government welfare"
+        ],
+        "keywords": [
+          "old age home",
+          "state government",
+          "indigent"
+        ],
+        "search_text": "Old age homes under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "वृद्धाश्रम",
+            "summary": "राज्य सरकार प्रत्येक जिले में आवश्यकता अनुसार निर्धन वरिष्ठ नागरिकों के लिए वृद्धाश्रम स्थापित कर सकती है।"
+          }
+        },
+        "question": "What does the Act provide regarding old age homes?",
+        "answer": "The State Government may establish and maintain at least one old age home in each district in a phased manner for accommodating indigent senior citizens and prescribe standards for their management.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 7
+      },
+      {
+        "id": "SENIOR-023",
+        "domain": "Senior Citizens",
+        "category": "Welfare Measures",
+        "subcategory": "Medical Support",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 20",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "Medium",
+        "intent": [
+          "medical care",
+          "health facilities"
+        ],
+        "keywords": [
+          "medical care",
+          "hospital",
+          "senior citizen",
+          "healthcare"
+        ],
+        "search_text": "Medical facilities for senior citizens under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "वरिष्ठ नागरिकों के लिए चिकित्सा सुविधा",
+            "summary": "राज्य सरकार वरिष्ठ नागरिकों के लिए सरकारी अस्पतालों में उचित चिकित्सा सुविधाएं उपलब्ध कराने के उपाय करेगी।"
+          }
+        },
+        "question": "What medical facilities are provided for senior citizens under the Act?",
+        "answer": "The State Government shall ensure that Government hospitals or hospitals funded by the Government provide beds for senior citizens, separate queues where possible, facilities for treatment of chronic and terminal diseases, and research activities relating to ageing and geriatric care.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 7
+      },
+      {
+        "id": "SENIOR-024",
+        "domain": "Senior Citizens",
+        "category": "Protection",
+        "subcategory": "Awareness and Publicity",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 21",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Senior Citizens",
+          "General Public"
+        ],
+        "jurisdiction": "India",
+        "severity": "Low",
+        "urgency": "Low",
+        "intent": [
+          "awareness",
+          "publicity",
+          "government"
+        ],
+        "keywords": [
+          "awareness",
+          "publicity",
+          "senior citizens",
+          "government"
+        ],
+        "search_text": "Awareness measures under Senior Citizens Act section 21",
+        "translations": {
+          "hi": {
+            "title": "जागरूकता एवं प्रचार",
+            "summary": "राज्य सरकार अधिनियम के प्रावधानों के बारे में व्यापक प्रचार-प्रसार करेगी तथा वरिष्ठ नागरिकों के अधिकारों के प्रति जागरूकता बढ़ाएगी।"
+          }
+        },
+        "question": "What awareness measures are required under this Act?",
+        "answer": "The State Government shall give wide publicity to the provisions of the Act through public media, conduct awareness programmes for officers concerned and ensure effective coordination among Government departments dealing with the welfare of senior citizens.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 7
+    },
+    {
+        "id": "SENIOR-025",
+        "domain": "Senior Citizens",
+        "category": "Protection",
+        "subcategory": "Life and Property",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 22",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+          "protection",
+          "life",
+          "property"
+        ],
+        "keywords": [
+          "life",
+          "property",
+          "district magistrate",
+          "protection",
+          "action plan"
+        ],
+        "search_text": "Protection of life and property of senior citizens under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "जीवन एवं संपत्ति की सुरक्षा",
+            "summary": "राज्य सरकार वरिष्ठ नागरिकों के जीवन एवं संपत्ति की सुरक्षा के लिए व्यापक कार्ययोजना निर्धारित करेगी।"
+          }
+        },
+        "question": "How does the Act protect the life and property of senior citizens?",
+        "answer": "The State Government shall prescribe a comprehensive action plan for providing protection of life and property of senior citizens and ensure its effective implementation through the District Magistrate and other authorities.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 8
+      },
+      {
+        "id": "SENIOR-026",
+        "domain": "Senior Citizens",
+        "category": "Protection",
+        "subcategory": "Power of District Magistrate",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 22",
+        "old_law_reference": null,
+        "applicable_to": [
+          "District Magistrate",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "district magistrate",
+          "implementation"
+        ],
+        "keywords": [
+          "district magistrate",
+          "implementation",
+          "protection",
+          "senior citizens"
+        ],
+        "search_text": "Role of District Magistrate under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "जिला मजिस्ट्रेट की भूमिका",
+            "summary": "जिला मजिस्ट्रेट अधिनियम के प्रभावी क्रियान्वयन तथा वरिष्ठ नागरिकों की सुरक्षा सुनिश्चित करने के लिए आवश्यक शक्तियों का प्रयोग करेगा।"
+          }
+        },
+        "question": "What is the role of the District Magistrate under this Act?",
+        "answer": "The District Magistrate shall exercise the powers and perform the duties conferred by or under the Act to ensure that its provisions relating to the welfare and protection of senior citizens are properly implemented.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 8
+      },
+      {
+        "id": "SENIOR-027",
+        "domain": "Senior Citizens",
+        "category": "Offences",
+        "subcategory": "Abandonment of Senior Citizen",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 24",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Children",
+          "Relatives",
+          "Caregivers"
+        ],
+        "jurisdiction": "India",
+        "severity": "High",
+        "urgency": "High",
+        "intent": [
+          "abandonment",
+          "punishment"
+        ],
+        "keywords": [
+          "abandonment",
+          "leave senior citizen",
+          "punishment",
+          "offence"
+        ],
+        "search_text": "Punishment for abandonment under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "वरिष्ठ नागरिक को छोड़ देना",
+            "summary": "जिस व्यक्ति की देखभाल में वरिष्ठ नागरिक हो, उसके द्वारा उसे त्याग देना दंडनीय अपराध है।"
+          }
+        },
+        "question": "Is abandoning a senior citizen an offence?",
+        "answer": "Yes. Whoever, having the care or protection of a senior citizen, intentionally abandons such senior citizen in any place with the intention of wholly abandoning him shall be punishable with imprisonment for a term which may extend to three months or with fine which may extend to five thousand rupees or with both.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 8
+      },
+      {
+        "id": "SENIOR-028",
+        "domain": "Senior Citizens",
+        "category": "Offences",
+        "subcategory": "Cognizance of Offence",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 25",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Police",
+          "Courts"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Medium",
+        "intent": [
+          "offence",
+          "trial",
+          "cognizable"
+        ],
+        "keywords": [
+          "cognizable",
+          "bailable",
+          "summary trial",
+          "court"
+        ],
+        "search_text": "Nature of offences under Senior Citizens Act section 25",
+        "translations": {
+          "hi": {
+            "title": "अपराधों का संज्ञान",
+            "summary": "अधिनियम के अंतर्गत अपराध संज्ञेय एवं जमानती हैं तथा उनका विचारण संक्षिप्त रूप से किया जाएगा।"
+          }
+        },
+        "question": "How are offences under this Act tried?",
+        "answer": "Every offence under this Act shall be cognizable and bailable and shall be tried summarily by a Judicial Magistrate of the First Class.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 8
+      },
+      {
+        "id": "SENIOR-029",
+        "domain": "Senior Citizens",
+        "category": "Jurisdiction",
+        "subcategory": "Civil Court Bar",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 27",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Courts",
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Low",
+        "intent": [
+          "jurisdiction",
+          "civil court"
+        ],
+        "keywords": [
+          "civil court",
+          "bar of jurisdiction",
+          "injunction"
+        ],
+        "search_text": "Bar of jurisdiction of civil courts under Senior Citizens Act",
+        "translations": {
+          "hi": {
+            "title": "सिविल न्यायालय के अधिकार का निषेध",
+            "summary": "जिन मामलों में इस अधिनियम के अंतर्गत न्यायाधिकरण या अपीलीय न्यायाधिकरण को अधिकार प्राप्त है, उनमें सिविल न्यायालय हस्तक्षेप नहीं करेगा।"
+          }
+        },
+        "question": "Can a civil court decide matters covered by this Act?",
+        "answer": "No. Civil courts shall not have jurisdiction in matters that the Maintenance Tribunal or Appellate Tribunal is empowered to determine under this Act, and no injunction shall be granted in respect of actions taken under the Act.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 9
+      },
+      {
+        "id": "SENIOR-030",
+        "domain": "Senior Citizens",
+        "category": "Legal Effect",
+        "subcategory": "Overriding Effect",
+        "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "section": "Section 3",
+        "old_law_reference": null,
+        "applicable_to": [
+          "Parents",
+          "Senior Citizens"
+        ],
+        "jurisdiction": "India",
+        "severity": "Medium",
+        "urgency": "Low",
+        "intent": [
+          "overriding effect",
+          "legal provisions"
+        ],
+        "keywords": [
+          "overriding effect",
+          "inconsistent laws",
+          "section 3"
+        ],
+        "search_text": "Overriding effect of Senior Citizens Act section 3",
+        "translations": {
+          "hi": {
+            "title": "अधिनियम का प्रभाव",
+            "summary": "यदि किसी अन्य कानून के प्रावधान इस अधिनियम से असंगत हों, तो इस अधिनियम के प्रावधान प्रभावी होंगे।"
+          }
+        },
+        "question": "Does this Act override inconsistent laws?",
+        "answer": "Yes. The provisions of this Act shall have effect notwithstanding anything inconsistent contained in any enactment other than this Act or in any instrument having effect by virtue of any enactment other than this Act.",
+        "source": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+        "page": 2
+      }
+    ]

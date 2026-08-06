@@ -1,0 +1,1432 @@
+[
+    {
+      "id": "RTI-001",
+      "domain": "RTI",
+      "category": "Right to Information",
+      "subcategory": "What is RTI",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 3",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "definition"
+      ],
+      "keywords": [
+        "RTI",
+        "Right to Information",
+        "information act",
+        "citizen rights"
+      ],
+      "search_text": "What is RTI Right to Information Act 2005 Section 3",
+      "translations": {
+        "en": {
+          "title": "What is RTI?",
+          "content": "The Right to Information Act, 2005 gives every citizen the right to seek information from public authorities, subject to the provisions and exemptions under the Act.",
+          "steps": [
+            "Identify the public authority.",
+            "Prepare an RTI application.",
+            "Submit it to the Public Information Officer (PIO)."
+          ],
+          "documents_required": [
+            "RTI Application",
+            "Identity details if required"
+          ]
+        },
+        "hi": {
+          "title": "आरटीआई क्या है?",
+          "content": "सूचना का अधिकार अधिनियम, 2005 नागरिकों को सार्वजनिक प्राधिकरणों से सूचना प्राप्त करने का अधिकार देता है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Kya Hai?",
+          "content": "RTI Act ke under citizen government authorities se information maang sakta hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-002",
+        "RTI-003"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-002",
+      "domain": "RTI",
+      "category": "Eligibility",
+      "subcategory": "Who Can File RTI",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 3",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "eligibility"
+      ],
+      "keywords": [
+        "who can file rti",
+        "citizen",
+        "eligibility"
+      ],
+      "search_text": "Who can file RTI citizen eligibility",
+      "translations": {
+        "en": {
+          "title": "Who Can File RTI?",
+          "content": "Any citizen of India may submit an RTI application seeking information from a public authority covered under the RTI Act.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "आरटीआई कौन दाखिल कर सकता है?",
+          "content": "भारत का कोई भी नागरिक आरटीआई आवेदन दे सकता है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Kaun File Kar Sakta Hai?",
+          "content": "India ka koi bhi citizen RTI file kar sakta hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-001"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-003",
+      "domain": "RTI",
+      "category": "Procedure",
+      "subcategory": "How to File RTI",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 6",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "actionable",
+      "urgency": "normal",
+      "intent": [
+        "procedure"
+      ],
+      "keywords": [
+        "how to file rti",
+        "rti application",
+        "pio"
+      ],
+      "search_text": "How to file RTI application PIO Section 6",
+      "translations": {
+        "en": {
+          "title": "How to File RTI",
+          "content": "Submit a written or online RTI application to the Public Information Officer (PIO) of the concerned public authority, clearly describing the information requested.",
+          "steps": [
+            "Identify the department.",
+            "Write the application.",
+            "Pay the prescribed fee if applicable.",
+            "Submit to the PIO."
+          ],
+          "documents_required": [
+            "Application",
+            "Fee receipt if applicable"
+          ]
+        },
+        "hi": {
+          "title": "आरटीआई कैसे दाखिल करें?",
+          "content": "संबंधित विभाग के लोक सूचना अधिकारी को आवेदन दें।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Kaise File Kare?",
+          "content": "Concerned department ke PIO ko application submit karo.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-004"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-004",
+      "domain": "RTI",
+      "category": "Time Limit",
+      "subcategory": "RTI Response Time",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 7",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "time limit"
+      ],
+      "keywords": [
+        "rti response",
+        "30 days",
+        "reply"
+      ],
+      "search_text": "RTI reply within 30 days Section 7",
+      "translations": {
+        "en": {
+          "title": "RTI Response Time",
+          "content": "The Public Information Officer is generally required to provide a response within the time prescribed under the RTI Act, subject to applicable provisions.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "आरटीआई उत्तर की समय सीमा",
+          "content": "आरटीआई अधिनियम के अनुसार निर्धारित समय में उत्तर दिया जाता है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Reply Time",
+          "content": "RTI ka jawab Act ke prescribed time ke andar diya jata hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-005"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-005",
+      "domain": "RTI",
+      "category": "Appeal",
+      "subcategory": "First Appeal",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 19",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "actionable",
+      "urgency": "normal",
+      "intent": [
+        "appeal"
+      ],
+      "keywords": [
+        "first appeal",
+        "rti appeal",
+        "section 19"
+      ],
+      "search_text": "First Appeal RTI Section 19",
+      "translations": {
+        "en": {
+          "title": "First Appeal",
+          "content": "If an applicant is dissatisfied with the RTI response or does not receive a response within the prescribed period, a first appeal may be filed before the designated appellate authority in accordance with the Act.",
+          "steps": [
+            "Attach RTI copy.",
+            "Attach reply if received.",
+            "Submit appeal."
+          ],
+          "documents_required": [
+            "RTI Copy",
+            "Reply Copy (if any)"
+          ]
+        },
+        "hi": {
+          "title": "प्रथम अपील",
+          "content": "उत्तर से असंतुष्ट होने पर प्रथम अपील की जा सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "First Appeal",
+          "content": "Reply na mile ya satisfactory na ho to first appeal file kar sakte ho.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-004"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-006",
+      "domain": "RTI",
+      "category": "Appeal",
+      "subcategory": "Second Appeal",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 19",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "actionable",
+      "urgency": "normal",
+      "intent": [
+        "second appeal"
+      ],
+      "keywords": [
+        "second appeal",
+        "information commission",
+        "rti commission"
+      ],
+      "search_text": "Second Appeal RTI Information Commission Section 19",
+      "translations": {
+        "en": {
+          "title": "Second Appeal",
+          "content": "If the applicant remains dissatisfied after the first appeal, a second appeal may be filed before the appropriate Information Commission in accordance with the RTI Act.",
+          "steps": [
+            "Keep copies of the RTI application.",
+            "Attach first appeal documents.",
+            "Submit the second appeal."
+          ],
+          "documents_required": [
+            "RTI Application",
+            "First Appeal",
+            "Reply Copies"
+          ]
+        },
+        "hi": {
+          "title": "द्वितीय अपील",
+          "content": "प्रथम अपील के बाद भी असंतोष होने पर द्वितीय अपील की जा सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Second Appeal",
+          "content": "First appeal ke baad bhi problem ho to Information Commission me second appeal file kar sakte ho.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-005"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-007",
+      "domain": "RTI",
+      "category": "Fees",
+      "subcategory": "RTI Application Fee",
+      "act": "Right to Information Act, 2005",
+      "section": "",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "fee"
+      ],
+      "keywords": [
+        "rti fee",
+        "application fee",
+        "payment"
+      ],
+      "search_text": "RTI application fee payment",
+      "translations": {
+        "en": {
+          "title": "RTI Application Fee",
+          "content": "RTI applications may require payment of the prescribed application fee, subject to applicable rules and exemptions.",
+          "steps": [
+            "Check applicable fee rules.",
+            "Pay through the accepted method.",
+            "Keep the receipt."
+          ],
+          "documents_required": [
+            "Fee Receipt"
+          ]
+        },
+        "hi": {
+          "title": "आरटीआई शुल्क",
+          "content": "आरटीआई आवेदन के लिए निर्धारित शुल्क लागू हो सकता है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Fee",
+          "content": "RTI file karte waqt prescribed fee deni pad sakti hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-003"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-008",
+      "domain": "RTI",
+      "category": "Exemptions",
+      "subcategory": "Information Not Available",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 8",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "exemption"
+      ],
+      "keywords": [
+        "section 8",
+        "exempt information",
+        "confidential information"
+      ],
+      "search_text": "RTI Section 8 exempt information",
+      "translations": {
+        "en": {
+          "title": "Information Exempt from Disclosure",
+          "content": "Certain categories of information may be exempt from disclosure under the RTI Act, including information protected by statutory exemptions.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "आरटीआई में अपवाद",
+          "content": "कुछ प्रकार की सूचनाएं अधिनियम के अंतर्गत अपवाद के रूप में संरक्षित होती हैं।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Exemptions",
+          "content": "Har information RTI ke through nahi mil sakti.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-001"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-009",
+      "domain": "RTI",
+      "category": "Public Authority",
+      "subcategory": "PIO",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 5",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "pio"
+      ],
+      "keywords": [
+        "PIO",
+        "public information officer",
+        "information officer"
+      ],
+      "search_text": "Public Information Officer PIO RTI",
+      "translations": {
+        "en": {
+          "title": "Public Information Officer (PIO)",
+          "content": "Every public authority designates Public Information Officers to receive and process RTI applications under the Act.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "लोक सूचना अधिकारी",
+          "content": "लोक सूचना अधिकारी आरटीआई आवेदन प्राप्त और संसाधित करते हैं।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "PIO",
+          "content": "PIO RTI applications handle karta hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-003"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-010",
+      "domain": "RTI",
+      "category": "Delay",
+      "subcategory": "No RTI Reply",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 19",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "actionable",
+      "urgency": "normal",
+      "intent": [
+        "no reply"
+      ],
+      "keywords": [
+        "no rti reply",
+        "delay",
+        "no response"
+      ],
+      "search_text": "No RTI response appeal",
+      "translations": {
+        "en": {
+          "title": "No Response to RTI",
+          "content": "If no response is received within the period prescribed under the RTI Act, the applicant may pursue the appellate remedies available under the Act.",
+          "steps": [
+            "Keep the RTI acknowledgment.",
+            "Calculate the response period.",
+            "File the appropriate appeal."
+          ],
+          "documents_required": [
+            "RTI Copy",
+            "Acknowledgment"
+          ]
+        },
+        "hi": {
+          "title": "आरटीआई का उत्तर नहीं मिला",
+          "content": "समय पर उत्तर न मिलने पर अपील की जा सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Reply Nahi Mila",
+          "content": "Time par reply na mile to appeal file kar sakte ho.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-005",
+        "RTI-006"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-011",
+      "domain": "RTI",
+      "category": "Fee Exemption",
+      "subcategory": "BPL Applicants",
+      "act": "Right to Information Act, 2005",
+      "section": "",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Below Poverty Line (BPL) Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "bpl"
+      ],
+      "keywords": [
+        "bpl",
+        "fee exemption",
+        "below poverty line"
+      ],
+      "search_text": "RTI BPL fee exemption",
+      "translations": {
+        "en": {
+          "title": "RTI for BPL Applicants",
+          "content": "Applicants who qualify for fee exemption under the applicable RTI rules should attach valid proof of BPL status when submitting the application.",
+          "steps": [
+            "Attach BPL proof.",
+            "Submit RTI application."
+          ],
+          "documents_required": [
+            "BPL Certificate"
+          ]
+        },
+        "hi": {
+          "title": "बीपीएल आवेदक",
+          "content": "पात्र बीपीएल आवेदकों को लागू नियमों के अनुसार शुल्क में छूट मिल सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "BPL Applicant",
+          "content": "Eligible BPL applicants ko prescribed rules ke hisab se fee exemption mil sakti hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-007"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-012",
+      "domain": "RTI",
+      "category": "Online RTI",
+      "subcategory": "Online Filing",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 6",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "online rti"
+      ],
+      "keywords": [
+        "online rti",
+        "rti portal",
+        "online application"
+      ],
+      "search_text": "Online RTI application portal",
+      "translations": {
+        "en": {
+          "title": "Online RTI Filing",
+          "content": "Many public authorities accept RTI applications through online portals where available.",
+          "steps": [
+            "Choose the correct public authority.",
+            "Fill the application.",
+            "Pay the fee if applicable.",
+            "Save the acknowledgment."
+          ],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "ऑनलाइन आरटीआई",
+          "content": "जहाँ सुविधा उपलब्ध हो वहाँ ऑनलाइन आवेदन किया जा सकता है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Online RTI",
+          "content": "Available portal par online RTI file ki ja sakti hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-003"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-013",
+      "domain": "RTI",
+      "category": "Disclosure",
+      "subcategory": "Third Party Information",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 11",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "third party information"
+      ],
+      "keywords": [
+        "third party",
+        "section 11",
+        "privacy"
+      ],
+      "search_text": "RTI Section 11 third party information",
+      "translations": {
+        "en": {
+          "title": "Third Party Information",
+          "content": "Requests involving information relating to third parties may be processed in accordance with Section 11 of the RTI Act and other applicable provisions.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "तृतीय पक्ष सूचना",
+          "content": "तृतीय पक्ष से संबंधित सूचना विशेष प्रक्रिया के अधीन हो सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Third Party Information",
+          "content": "Third party information ke liye alag legal procedure ho sakta hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-008"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-014",
+      "domain": "RTI",
+      "category": "Urgent Requests",
+      "subcategory": "Life and Liberty",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 7",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "high",
+      "urgency": "high",
+      "intent": [
+        "life liberty"
+      ],
+      "keywords": [
+        "life and liberty",
+        "urgent rti"
+      ],
+      "search_text": "Life and liberty RTI Section 7",
+      "translations": {
+        "en": {
+          "title": "Life and Liberty Requests",
+          "content": "Where the request concerns the life or liberty of a person, the RTI Act provides a special time frame for responding, subject to the Act.",
+          "steps": [
+            "Clearly explain the urgency.",
+            "Attach supporting documents if available."
+          ],
+          "documents_required": [
+            "Supporting Documents (if any)"
+          ]
+        },
+        "hi": {
+          "title": "जीवन एवं स्वतंत्रता",
+          "content": "जीवन या स्वतंत्रता से जुड़े मामलों में विशेष समय-सीमा लागू हो सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Life and Liberty RTI",
+          "content": "Life ya liberty se related RTI ko priority mil sakti hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-004"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-015",
+      "domain": "RTI",
+      "category": "Inspection",
+      "subcategory": "Inspection of Records",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 2",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": [
+        "Citizen"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "inspection"
+      ],
+      "keywords": [
+        "inspect records",
+        "government records",
+        "inspection"
+      ],
+      "search_text": "Inspection of records RTI",
+      "translations": {
+        "en": {
+          "title": "Inspection of Records",
+          "content": "The right to information includes inspection of records where permitted under the Act and applicable rules.",
+          "steps": [
+            "Mention inspection in the RTI application.",
+            "Wait for the authority's response."
+          ],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "अभिलेखों का निरीक्षण",
+          "content": "आरटीआई के तहत अभिलेखों का निरीक्षण भी मांगा जा सकता है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Inspection of Records",
+          "content": "RTI ke through records inspect karne ki request bhi ki ja sakti hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-001"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-016",
+      "domain": "RTI",
+      "category": "Records",
+      "subcategory": "Certified Copies",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 2(j)",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": ["certified copy"],
+      "keywords": [
+        "certified copy",
+        "official copy",
+        "documents"
+      ],
+      "search_text": "Certified copy under RTI Section 2(j)",
+      "translations": {
+        "en": {
+          "title": "Certified Copies of Records",
+          "content": "Applicants may request certified copies of records that are accessible under the RTI Act, subject to the applicable provisions and rules.",
+          "steps": [
+            "Clearly specify the document.",
+            "Request a certified copy in the application."
+          ],
+          "documents_required": [
+            "RTI Application"
+          ]
+        },
+        "hi": {
+          "title": "प्रमाणित प्रतियां",
+          "content": "आरटीआई के अंतर्गत प्रमाणित प्रतियां मांगी जा सकती हैं।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Certified Copy",
+          "content": "RTI ke through certified copies bhi maangi ja sakti hain.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-015"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-017",
+      "domain": "RTI",
+      "category": "Inspection",
+      "subcategory": "Samples of Material",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 2(j)",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": ["sample"],
+      "keywords": [
+        "sample",
+        "material sample",
+        "inspection"
+      ],
+      "search_text": "Samples of material RTI",
+      "translations": {
+        "en": {
+          "title": "Samples of Material",
+          "content": "Where permitted under the RTI Act and applicable rules, applicants may request samples of materials referred to in government records.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "सामग्री के नमूने",
+          "content": "जहां नियम अनुमति दें, सामग्री के नमूने मांगे जा सकते हैं।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Material Sample",
+          "content": "RTI me material sample bhi request kiya ja sakta hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-015"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-018",
+      "domain": "RTI",
+      "category": "Transfer",
+      "subcategory": "Transfer of Application",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 6(3)",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "actionable",
+      "urgency": "normal",
+      "intent": ["transfer"],
+      "keywords": [
+        "transfer application",
+        "wrong department",
+        "section 6(3)"
+      ],
+      "search_text": "Transfer RTI application Section 6(3)",
+      "translations": {
+        "en": {
+          "title": "Transfer of RTI Application",
+          "content": "If the requested information is held by another public authority, the RTI application may be transferred in accordance with Section 6(3) of the Act.",
+          "steps": [
+            "Mention the subject clearly.",
+            "Wait for transfer confirmation."
+          ],
+          "documents_required": [
+            "RTI Application"
+          ]
+        },
+        "hi": {
+          "title": "आरटीआई आवेदन का स्थानांतरण",
+          "content": "गलत विभाग में आवेदन जाने पर उसे संबंधित विभाग को भेजा जा सकता है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Transfer",
+          "content": "Galat department me application jane par transfer ho sakti hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-003"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-019",
+      "domain": "RTI",
+      "category": "Disclosure",
+      "subcategory": "Partial Disclosure",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 10",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": ["partial disclosure"],
+      "keywords": [
+        "section 10",
+        "partial information",
+        "severability"
+      ],
+      "search_text": "Section 10 RTI partial disclosure",
+      "translations": {
+        "en": {
+          "title": "Partial Disclosure",
+          "content": "Where only part of the requested record can be disclosed, the public authority may provide the disclosable portion in accordance with Section 10 of the RTI Act.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "आंशिक सूचना",
+          "content": "कुछ मामलों में केवल उपलब्ध भाग की सूचना दी जा सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Partial Information",
+          "content": "Kabhi kabhi sirf allowed information hi provide ki jati hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-008"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-020",
+      "domain": "RTI",
+      "category": "Rejection",
+      "subcategory": "RTI Rejected",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 8",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "actionable",
+      "urgency": "normal",
+      "intent": ["rejected"],
+      "keywords": [
+        "rti rejected",
+        "information denied",
+        "appeal"
+      ],
+      "search_text": "RTI rejected appeal",
+      "translations": {
+        "en": {
+          "title": "RTI Rejected",
+          "content": "If an RTI request is rejected, the applicant should review the reasons provided and may pursue the appellate remedies available under the RTI Act where appropriate.",
+          "steps": [
+            "Read the rejection carefully.",
+            "Keep the rejection order.",
+            "Consider filing an appeal."
+          ],
+          "documents_required": [
+            "Rejection Order",
+            "RTI Copy"
+          ]
+        },
+        "hi": {
+          "title": "आरटीआई अस्वीकार",
+          "content": "अस्वीकृति के कारणों की समीक्षा करें और आवश्यकता होने पर अपील करें।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Rejected",
+          "content": "Rejection order ko dhyan se padho aur zarurat ho to appeal file karo.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-005",
+        "RTI-006"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-021",
+      "domain": "RTI",
+      "category": "Public Authorities",
+      "subcategory": "Local Bodies",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 2(h)",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": ["local authority"],
+      "keywords": [
+        "municipality",
+        "panchayat",
+        "municipal corporation",
+        "local body"
+      ],
+      "search_text": "RTI local authority municipality panchayat",
+      "translations": {
+        "en": {
+          "title": "RTI for Local Authorities",
+          "content": "RTI applications may be filed before public authorities covered under the Act, including eligible local bodies such as municipalities and panchayats.",
+          "steps": [
+            "Identify the concerned authority.",
+            "Address the application to the PIO."
+          ],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "स्थानीय निकाय",
+          "content": "नगरपालिका और पंचायत जैसे सार्वजनिक प्राधिकरणों से भी सूचना मांगी जा सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Local Authority RTI",
+          "content": "Municipality ya Panchayat se bhi RTI ke through information maangi ja sakti hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-001"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-022",
+      "domain": "RTI",
+      "category": "Comparison",
+      "subcategory": "RTI vs Grievance",
+      "act": "Right to Information Act, 2005",
+      "section": "",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": ["difference"],
+      "keywords": [
+        "RTI vs complaint",
+        "grievance",
+        "difference"
+      ],
+      "search_text": "Difference between RTI and grievance",
+      "translations": {
+        "en": {
+          "title": "RTI vs Grievance",
+          "content": "RTI is used to seek information from public authorities. A grievance mechanism is generally used to request action or resolve a complaint. The two serve different purposes.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "आरटीआई और शिकायत",
+          "content": "आरटीआई सूचना प्राप्त करने का माध्यम है, जबकि शिकायत कार्रवाई कराने का माध्यम है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI vs Complaint",
+          "content": "RTI information ke liye hoti hai, complaint action ke liye.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-003"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-023",
+      "domain": "RTI",
+      "category": "Decision Making",
+      "subcategory": "Reasons for Administrative Decisions",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 4",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": ["reason"],
+      "keywords": [
+        "administrative decision",
+        "reason for rejection",
+        "government decision"
+      ],
+      "search_text": "Reasons for administrative decisions RTI",
+      "translations": {
+        "en": {
+          "title": "Reasons for Administrative Decisions",
+          "content": "Applicants may seek information relating to administrative decisions where disclosure is permitted under the RTI Act.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "प्रशासनिक निर्णय के कारण",
+          "content": "जहां लागू हो वहां प्रशासनिक निर्णयों से संबंधित सूचना मांगी जा सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Administrative Decisions",
+          "content": "Government decision ke reasons bhi kuch situations me maange ja sakte hain.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-001"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-024",
+      "domain": "RTI",
+      "category": "Records",
+      "subcategory": "Electronic Records",
+      "act": "Right to Information Act, 2005",
+      "section": "Section 2(f)",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": ["electronic records"],
+      "keywords": [
+        "electronic record",
+        "digital record",
+        "soft copy"
+      ],
+      "search_text": "Electronic records RTI soft copy",
+      "translations": {
+        "en": {
+          "title": "Electronic Records",
+          "content": "Information maintained in electronic form may be requested where disclosure is permitted under the RTI Act.",
+          "steps": [],
+          "documents_required": []
+        },
+        "hi": {
+          "title": "इलेक्ट्रॉनिक अभिलेख",
+          "content": "इलेक्ट्रॉनिक रूप में उपलब्ध सूचना भी मांगी जा सकती है।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "Electronic Records",
+          "content": "Digital records ki copy bhi RTI me maangi ja sakti hai.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-015",
+        "RTI-016"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    },
+    {
+      "id": "RTI-025",
+      "domain": "RTI",
+      "category": "Checklist",
+      "subcategory": "Before Filing RTI",
+      "act": "Right to Information Act, 2005",
+      "section": "",
+      "old_law_reference": {
+        "act": "",
+        "section": ""
+      },
+      "applicable_to": ["Citizen"],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": ["checklist"],
+      "keywords": [
+        "before filing rti",
+        "rti checklist",
+        "application tips"
+      ],
+      "search_text": "Checklist before filing RTI",
+      "translations": {
+        "en": {
+          "title": "RTI Filing Checklist",
+          "content": "Before filing an RTI application, identify the correct public authority, ask for specific information instead of explanations, keep a copy of your application, and preserve payment or acknowledgment records.",
+          "steps": [
+            "Identify the authority.",
+            "Write specific questions.",
+            "Keep copies.",
+            "Save acknowledgment."
+          ],
+          "documents_required": [
+            "RTI Application",
+            "Acknowledgment"
+          ]
+        },
+        "hi": {
+          "title": "आरटीआई चेकलिस्ट",
+          "content": "आवेदन करने से पहले सही विभाग और स्पष्ट सूचना का चयन करें।",
+          "steps": [],
+          "documents_required": []
+        },
+        "hinglish": {
+          "title": "RTI Checklist",
+          "content": "Specific information maango aur application ki copy sambhal kar rakho.",
+          "steps": [],
+          "documents_required": []
+        }
+      },
+      "related_ids": [
+        "RTI-003",
+        "RTI-007"
+      ],
+      "source": "Right to Information Act, 2005",
+      "source_url": "https://rti.gov.in/",
+      "disclaimer": "General legal information only.",
+      "last_verified": "2026-07-01",
+      "version": 1
+    }
+    ]

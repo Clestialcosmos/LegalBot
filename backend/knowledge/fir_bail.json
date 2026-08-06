@@ -1,0 +1,557 @@
+[
+    {
+      "id": "FIR-001",
+      "domain": "Police",
+      "category": "Police & FIR",
+      "subcategory": "FIR Basics",
+  
+      "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "section": "Section 173",
+  
+      "old_law_reference": {
+        "act": "Code of Criminal Procedure, 1973",
+        "section": "Section 154"
+      },
+  
+      "applicable_to": [
+        "Citizen",
+        "Victim",
+        "Complainant"
+      ],
+  
+      "jurisdiction": "India",
+  
+      "severity": "informational",
+  
+      "urgency": "normal",
+  
+      "intent": [
+        "definition",
+        "rights",
+        "procedure"
+      ],
+  
+      "keywords": [
+        "fir",
+        "first information report",
+        "police complaint",
+        "cognizable offence",
+        "bnss section 173",
+        "crpc section 154"
+      ],
+  
+      "search_text": "FIR First Information Report Police Complaint Cognizable Offence BNSS Section 173 CrPC Section 154 Register FIR Police Station",
+  
+      "translations": {
+  
+        "en": {
+  
+          "title": "What is an FIR?",
+  
+          "content": "A First Information Report (FIR) is the first information recorded by the police regarding the commission of a cognizable offence. Registration of an FIR formally begins the criminal investigation process.",
+  
+          "steps": [
+            "Visit the nearest police station.",
+            "Describe the incident clearly.",
+            "Provide available evidence or witness details if any.",
+            "Verify the recorded information.",
+            "Collect a free copy of the registered FIR."
+          ],
+  
+          "documents_required": [
+            "Identity Proof (if available)",
+            "Evidence (if available)",
+            "Photos or Videos (if available)",
+            "Witness Details (optional)"
+          ]
+        },
+  
+        "hi": {
+  
+          "title": "एफआईआर क्या है?",
+  
+          "content": "एफआईआर (प्रथम सूचना रिपोर्ट) संज्ञेय अपराध के संबंध में पुलिस द्वारा दर्ज की जाने वाली पहली आधिकारिक रिपोर्ट होती है। इसके बाद पुलिस जांच की प्रक्रिया शुरू होती है।",
+  
+          "steps": [
+            "निकटतम पुलिस स्टेशन जाएं।",
+            "घटना का स्पष्ट विवरण दें।",
+            "यदि उपलब्ध हो तो साक्ष्य प्रस्तुत करें।",
+            "दर्ज विवरण को पढ़कर सत्यापित करें।",
+            "एफआईआर की निःशुल्क प्रति प्राप्त करें।"
+          ],
+  
+          "documents_required": [
+            "पहचान पत्र (यदि उपलब्ध हो)",
+            "साक्ष्य (यदि उपलब्ध हो)",
+            "फोटो या वीडियो (यदि उपलब्ध हो)"
+          ]
+        },
+  
+        "hinglish": {
+  
+          "title": "FIR kya hoti hai?",
+  
+          "content": "FIR (First Information Report) police dwara cognizable offence ki pehli official report hoti hai. FIR register hone ke baad police investigation shuru karti hai.",
+  
+          "steps": [
+            "Nearest police station jao.",
+            "Incident clearly explain karo.",
+            "Jo bhi evidence ho wo do.",
+            "Recorded statement check karo.",
+            "FIR ki free copy le lo."
+          ],
+  
+          "documents_required": [
+            "ID Proof (agar available ho)",
+            "Evidence (agar available ho)"
+          ]
+        }
+      },
+  
+      "related_ids": [
+        "FIR-002",
+        "FIR-003",
+        "BAIL-001"
+      ],
+  
+      "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+  
+      "source_url": "https://www.mha.gov.in/",
+  
+      "disclaimer": "This is general legal information and not legal advice. Consult a qualified advocate for case-specific guidance.",
+  
+      "last_verified": "2026-07-01",
+  
+      "version": 1
+    },
+  
+    {
+      "id": "FIR-002",
+  
+      "domain": "Police",
+  
+      "category": "Police & FIR",
+  
+      "subcategory": "FIR Refusal",
+  
+      "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+  
+      "section": "Section 173",
+  
+      "old_law_reference": {
+        "act": "Code of Criminal Procedure, 1973",
+        "section": "Section 154"
+      },
+  
+      "applicable_to": [
+        "Victim",
+        "Complainant"
+      ],
+  
+      "jurisdiction": "India",
+  
+      "severity": "actionable",
+  
+      "urgency": "time-sensitive",
+  
+      "intent": [
+        "procedure",
+        "complaint"
+      ],
+  
+      "keywords": [
+        "police refusing fir",
+        "fir refusal",
+        "superintendent of police",
+        "register fir",
+        "refusal complaint"
+      ],
+  
+      "search_text": "Police refuses FIR Superintendent of Police SP Complaint FIR Registration Refusal BNSS CrPC",
+  
+      "translations": {
+  
+        "en": {
+  
+          "title": "Police refuses to register FIR",
+  
+          "content": "If the police refuse to register an FIR for a cognizable offence, the complainant may approach the competent higher police authority or follow the legal remedies available under the applicable criminal procedure.",
+  
+          "steps": [
+            "Request the reason for refusal.",
+            "Keep a written copy of your complaint.",
+            "Approach the competent higher authority if required.",
+            "Preserve all evidence."
+          ],
+  
+          "documents_required": [
+            "Complaint Copy",
+            "Identity Proof",
+            "Evidence"
+          ]
+        },
+  
+        "hi": {
+  
+          "title": "पुलिस द्वारा एफआईआर दर्ज करने से इनकार",
+  
+          "content": "यदि पुलिस एफआईआर दर्ज करने से इनकार करती है, तो शिकायतकर्ता उपलब्ध कानूनी प्रक्रिया के अनुसार उच्च अधिकारी से संपर्क कर सकता है।",
+  
+          "steps": [
+            "इनकार का कारण पूछें।",
+            "लिखित शिकायत सुरक्षित रखें।",
+            "आवश्यक होने पर उच्च अधिकारी से संपर्क करें।"
+          ],
+  
+          "documents_required": [
+            "शिकायत की प्रति",
+            "पहचान पत्र",
+            "साक्ष्य"
+          ]
+        },
+  
+        "hinglish": {
+  
+          "title": "Police FIR register nahi kar rahi",
+  
+          "content": "Agar police FIR register nahi karti hai, to available legal procedure ke hisaab se higher authority se contact kiya ja sakta hai.",
+  
+          "steps": [
+            "Complaint ki copy rakho.",
+            "Reason pucho.",
+            "Higher authority se contact karo."
+          ],
+  
+          "documents_required": [
+            "Complaint Copy",
+            "Evidence"
+          ]
+        }
+      },
+  
+      "related_ids": [
+        "FIR-001",
+        "BAIL-001"
+      ],
+  
+      "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+  
+      "source_url": "https://www.mha.gov.in/",
+  
+      "disclaimer": "This is general legal information and not legal advice.",
+  
+      "last_verified": "2026-07-01",
+  
+      "version": 1
+    },
+    {
+        "id": "FIR-003",
+    
+        "domain": "Police",
+    
+        "category": "Police & FIR",
+    
+        "subcategory": "Zero FIR",
+    
+        "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    
+        "section": "Section 173",
+    
+        "old_law_reference": {
+          "act": "Code of Criminal Procedure, 1973",
+          "section": "Section 154"
+        },
+    
+        "applicable_to": [
+          "Victim",
+          "Citizen"
+        ],
+    
+        "jurisdiction": "India",
+    
+        "severity": "informational",
+    
+        "urgency": "time-sensitive",
+    
+        "intent": [
+          "definition",
+          "procedure"
+        ],
+    
+        "keywords": [
+          "zero fir",
+          "fir anywhere",
+          "jurisdiction",
+          "police station"
+        ],
+    
+        "search_text": "Zero FIR Register FIR Any Police Station Jurisdiction Transfer Investigation",
+    
+        "translations": {
+    
+          "en": {
+    
+            "title": "What is Zero FIR?",
+    
+            "content": "A Zero FIR allows information about a cognizable offence to be recorded even if the police station receiving the complaint does not have territorial jurisdiction. The matter may later be transferred to the appropriate police station according to law.",
+    
+            "steps": [
+              "Visit the nearest police station.",
+              "Explain that immediate reporting is required.",
+              "Collect the acknowledgement or copy if an FIR is registered."
+            ],
+    
+            "documents_required": [
+              "Identity Proof (if available)",
+              "Evidence (if available)"
+            ]
+          },
+    
+          "hi": {
+    
+            "title": "जीरो एफआईआर क्या है?",
+    
+            "content": "जीरो एफआईआर ऐसी एफआईआर है जिसे किसी भी पुलिस स्टेशन में दर्ज किया जा सकता है, भले ही घटना उस क्षेत्राधिकार में न हुई हो। बाद में इसे संबंधित पुलिस स्टेशन को भेजा जा सकता है।",
+    
+            "steps": [
+              "निकटतम पुलिस स्टेशन जाएं।",
+              "घटना का विवरण दें।",
+              "रसीद या प्रति प्राप्त करें।"
+            ],
+    
+            "documents_required": [
+              "पहचान पत्र",
+              "साक्ष्य"
+            ]
+          },
+    
+          "hinglish": {
+    
+            "title": "Zero FIR kya hoti hai?",
+    
+            "content": "Zero FIR kisi bhi police station me register ho sakti hai, chahe incident us area ka na ho. Baad me case correct police station ko transfer kiya ja sakta hai.",
+    
+            "steps": [
+              "Nearest police station jao.",
+              "Incident explain karo.",
+              "Acknowledgement le lo."
+            ],
+    
+            "documents_required": [
+              "ID Proof",
+              "Evidence"
+            ]
+          }
+        },
+    
+        "related_ids": [
+          "FIR-001",
+          "FIR-002"
+        ],
+    
+        "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    
+        "source_url": "https://www.mha.gov.in/",
+    
+        "disclaimer": "This is general legal information and not legal advice.",
+    
+        "last_verified": "2026-07-01",
+    
+        "version": 1
+      },
+    
+      {
+        "id": "BAIL-001",
+    
+        "domain": "Police",
+    
+        "category": "Bail",
+    
+        "subcategory": "Regular Bail",
+    
+        "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    
+        "section": "",
+    
+        "old_law_reference": {
+          "act": "",
+          "section": ""
+        },
+    
+        "applicable_to": [
+          "Accused"
+        ],
+    
+        "jurisdiction": "India",
+    
+        "severity": "informational",
+    
+        "urgency": "normal",
+    
+        "intent": [
+          "definition"
+        ],
+    
+        "keywords": [
+          "bail",
+          "regular bail",
+          "release from custody"
+        ],
+    
+        "search_text": "Regular Bail Court Custody Release Conditions BNSS",
+    
+        "translations": {
+    
+          "en": {
+    
+            "title": "What is Bail?",
+    
+            "content": "Bail is the legal process through which an accused person may be released from custody subject to conditions imposed by the competent authority or court.",
+    
+            "steps": [
+              "Consult a legal professional if required.",
+              "Apply before the competent court.",
+              "Comply with the conditions imposed."
+            ],
+    
+            "documents_required": [
+              "Application",
+              "Identity Proof"
+            ]
+          },
+    
+          "hi": {
+    
+            "title": "जमानत क्या है?",
+    
+            "content": "जमानत वह कानूनी प्रक्रिया है जिसके माध्यम से आरोपी को निर्धारित शर्तों के साथ हिरासत से रिहा किया जा सकता है।",
+    
+            "steps": [],
+            "documents_required": []
+          },
+    
+          "hinglish": {
+    
+            "title": "Bail kya hoti hai?",
+    
+            "content": "Bail ek legal process hai jisme accused ko court ki conditions ke saath custody se release kiya ja sakta hai.",
+    
+            "steps": [],
+            "documents_required": []
+          }
+        },
+    
+        "related_ids": [
+          "BAIL-002",
+          "FIR-001"
+        ],
+    
+        "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    
+        "source_url": "https://www.mha.gov.in/",
+    
+        "disclaimer": "This is general legal information and not legal advice.",
+    
+        "last_verified": "2026-07-01",
+    
+        "version": 1
+      },
+    
+      {
+        "id": "BAIL-002",
+    
+        "domain": "Police",
+    
+        "category": "Bail",
+    
+        "subcategory": "Anticipatory Bail",
+    
+        "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    
+        "section": "",
+    
+        "old_law_reference": {
+          "act": "",
+          "section": ""
+        },
+    
+        "applicable_to": [
+          "Person Apprehending Arrest"
+        ],
+    
+        "jurisdiction": "India",
+    
+        "severity": "actionable",
+    
+        "urgency": "time-sensitive",
+    
+        "intent": [
+          "definition",
+          "procedure"
+        ],
+    
+        "keywords": [
+          "anticipatory bail",
+          "pre arrest bail",
+          "non bailable offence"
+        ],
+    
+        "search_text": "Anticipatory Bail Pre Arrest Bail Court Non Bailable Offence",
+    
+        "translations": {
+    
+          "en": {
+    
+            "title": "What is Anticipatory Bail?",
+    
+            "content": "Anticipatory bail is a legal protection through which a person who expects arrest for a non-bailable offence may seek bail in advance from the competent court.",
+    
+            "steps": [
+              "Consult a legal professional.",
+              "File an application before the competent court.",
+              "Follow the conditions imposed by the court."
+            ],
+    
+            "documents_required": [
+              "Application",
+              "Supporting Documents"
+            ]
+          },
+    
+          "hi": {
+    
+            "title": "अग्रिम जमानत क्या है?",
+    
+            "content": "अग्रिम जमानत वह कानूनी सुरक्षा है जिसके अंतर्गत गिरफ्तारी की आशंका होने पर व्यक्ति पहले से न्यायालय से राहत मांग सकता है।",
+    
+            "steps": [],
+            "documents_required": []
+          },
+    
+          "hinglish": {
+    
+            "title": "Anticipatory Bail kya hoti hai?",
+    
+            "content": "Agar kisi person ko arrest hone ka reasonable fear ho to wo competent court se pehle hi anticipatory bail ke liye apply kar sakta hai.",
+    
+            "steps": [],
+            "documents_required": []
+          }
+        },
+    
+        "related_ids": [
+          "BAIL-001",
+          "FIR-001"
+        ],
+    
+        "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    
+        "source_url": "https://www.mha.gov.in/",
+    
+        "disclaimer": "This is general legal information and not legal advice.",
+    
+        "last_verified": "2026-07-01",
+    
+        "version": 1
+      }
+    ]

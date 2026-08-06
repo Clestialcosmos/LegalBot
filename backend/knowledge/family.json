@@ -1,0 +1,846 @@
+[
+    {
+      "id": "FAMILY-001",
+      "domain": "Family",
+      "category": "Family Court",
+      "subcategory": "Definition",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 3",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Citizens",
+        "Families"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "definition"
+      ],
+      "keywords": [
+        "family court",
+        "court",
+        "marriage dispute",
+        "family dispute"
+      ],
+      "search_text": "What is Family Court marriage dispute family court definition",
+      "translations": {
+        "hi": {
+          "title": "पारिवारिक न्यायालय क्या है?",
+          "summary": "पारिवारिक विवादों के त्वरित निपटारे हेतु स्थापित विशेष न्यायालय।"
+        }
+      },
+      "question": "What is a Family Court?",
+      "answer": "A Family Court is a special court established for speedy settlement of disputes relating to marriage and family affairs.",
+      "source": "Family Courts Act, 1984",
+      "page": 3
+    },
+  
+    {
+      "id": "FAMILY-002",
+      "domain": "Family",
+      "category": "Family Court",
+      "subcategory": "Purpose",
+      "act": "Family Courts Act, 1984",
+      "section": "Preamble",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Citizens"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "purpose"
+      ],
+      "keywords": [
+        "purpose",
+        "conciliation",
+        "family"
+      ],
+      "search_text": "Purpose of Family Court conciliation speedy settlement",
+      "translations": {
+        "hi": {
+          "title": "पारिवारिक न्यायालय का उद्देश्य",
+          "summary": "पारिवारिक विवादों का समझौते और शीघ्र समाधान।"
+        }
+      },
+      "question": "Why was the Family Courts Act enacted?",
+      "answer": "The Act was enacted to promote conciliation and ensure speedy settlement of disputes relating to marriage and family affairs.",
+      "source": "Family Courts Act, 1984",
+      "page": 2
+    },
+  
+    {
+      "id": "FAMILY-003",
+      "domain": "Family",
+      "category": "Jurisdiction",
+      "subcategory": "Marriage",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 7",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Spouses"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "jurisdiction"
+      ],
+      "keywords": [
+        "divorce",
+        "judicial separation",
+        "marriage"
+      ],
+      "search_text": "Family Court divorce judicial separation marriage",
+      "translations": {
+        "hi": {
+          "title": "विवाह संबंधी विवाद",
+          "summary": "तलाक, न्यायिक पृथक्करण एवं विवाह संबंधी मामलों की सुनवाई।"
+        }
+      },
+      "question": "Can Family Court hear divorce cases?",
+      "answer": "Yes. Family Courts have jurisdiction over divorce, judicial separation, nullity of marriage and related matrimonial proceedings.",
+      "source": "Family Courts Act, 1984",
+      "page": 4
+    },
+  
+    {
+      "id": "FAMILY-004",
+      "domain": "Family",
+      "category": "Jurisdiction",
+      "subcategory": "Maintenance",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 7",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Wife",
+        "Children",
+        "Parents"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "high",
+      "intent": [
+        "maintenance"
+      ],
+      "keywords": [
+        "maintenance",
+        "wife",
+        "children",
+        "parents"
+      ],
+      "search_text": "maintenance wife children parents family court",
+      "translations": {
+        "hi": {
+          "title": "भरण-पोषण",
+          "summary": "परिवार न्यायालय भरण-पोषण के मामलों की सुनवाई कर सकता है।"
+        }
+      },
+      "question": "Can Family Court decide maintenance cases?",
+      "answer": "Yes. Family Courts have jurisdiction over maintenance proceedings relating to eligible family members.",
+      "source": "Family Courts Act, 1984",
+      "page": 5
+    },
+  
+    {
+      "id": "FAMILY-005",
+      "domain": "Family",
+      "category": "Jurisdiction",
+      "subcategory": "Child Custody",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 7",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parents",
+        "Guardians"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "high",
+      "intent": [
+        "custody"
+      ],
+      "keywords": [
+        "custody",
+        "guardian",
+        "minor"
+      ],
+      "search_text": "child custody guardian family court",
+      "translations": {
+        "hi": {
+          "title": "बाल अभिरक्षा",
+          "summary": "नाबालिग की अभिरक्षा और संरक्षकता से जुड़े मामले।"
+        }
+      },
+      "question": "Does Family Court handle child custody?",
+      "answer": "Yes. Family Courts decide matters relating to guardianship, custody and access to minors.",
+      "source": "Family Courts Act, 1984",
+      "page": 5
+    },
+  
+    {
+      "id": "FAMILY-006",
+      "domain": "Family",
+      "category": "Procedure",
+      "subcategory": "Settlement",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 9",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Litigants"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "procedure"
+      ],
+      "keywords": [
+        "settlement",
+        "conciliation",
+        "mediation"
+      ],
+      "search_text": "family court settlement mediation conciliation",
+      "translations": {
+        "hi": {
+          "title": "समझौते का प्रयास",
+          "summary": "न्यायालय पहले समझौता कराने का प्रयास करता है।"
+        }
+      },
+      "question": "Does Family Court try settlement first?",
+      "answer": "Yes. The Family Court should first attempt settlement wherever possible before proceeding with adjudication.",
+      "source": "Family Courts Act, 1984",
+      "page": 5
+    },
+    {
+      "id": "FAMILY-007",
+      "domain": "Family",
+      "category": "Procedure",
+      "subcategory": "In Camera Proceedings",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 11",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parties"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "privacy"
+      ],
+      "keywords": [
+        "in camera",
+        "private hearing",
+        "family court"
+      ],
+      "search_text": "private hearing family court in camera proceedings",
+      "translations": {
+        "hi": {
+          "title": "बंद कक्ष में सुनवाई",
+          "summary": "आवश्यक होने पर न्यायालय बंद कक्ष में सुनवाई कर सकता है।"
+        }
+      },
+      "question": "Can Family Court conduct private hearings?",
+      "answer": "Yes. The Family Court may hold proceedings in camera whenever it considers it necessary or appropriate.",
+      "source": "Family Courts Act, 1984",
+      "page": 6
+    },
+  
+    {
+      "id": "FAMILY-008",
+      "domain": "Family",
+      "category": "Procedure",
+      "subcategory": "Legal Representation",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 13",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Litigants"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "lawyer"
+      ],
+      "keywords": [
+        "lawyer",
+        "advocate",
+        "representation"
+      ],
+      "search_text": "can lawyer appear in family court advocate permission",
+      "translations": {
+        "hi": {
+          "title": "वकील की उपस्थिति",
+          "summary": "वकील की उपस्थिति न्यायालय की अनुमति पर निर्भर हो सकती है।"
+        }
+      },
+      "question": "Can a lawyer appear before a Family Court?",
+      "answer": "Legal representation may be permitted by the Family Court when it considers such assistance necessary.",
+      "source": "Family Courts Act, 1984",
+      "page": 7
+    },
+  
+    {
+      "id": "FAMILY-009",
+      "domain": "Family",
+      "category": "Appeal",
+      "subcategory": "Appeal to High Court",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 19",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parties"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "appeal"
+      ],
+      "keywords": [
+        "appeal",
+        "high court",
+        "family court order"
+      ],
+      "search_text": "appeal against family court order high court",
+      "translations": {
+        "hi": {
+          "title": "अपील",
+          "summary": "परिवार न्यायालय के आदेश के विरुद्ध उच्च न्यायालय में अपील की जा सकती है।"
+        }
+      },
+      "question": "Can a Family Court order be challenged?",
+      "answer": "Yes. Appeals from eligible Family Court judgments lie before the High Court, subject to the provisions of the Act.",
+      "source": "Family Courts Act, 1984",
+      "page": 9
+    },
+  
+    {
+      "id": "FAMILY-010",
+      "domain": "Family",
+      "category": "Marriage",
+      "subcategory": "Judicial Separation",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 7",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Spouses"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "judicial separation"
+      ],
+      "keywords": [
+        "judicial separation",
+        "marriage dispute"
+      ],
+      "search_text": "judicial separation family court",
+      "translations": {
+        "hi": {
+          "title": "न्यायिक पृथक्करण",
+          "summary": "पति-पत्नी न्यायिक पृथक्करण के लिए परिवार न्यायालय जा सकते हैं।"
+        }
+      },
+      "question": "Does Family Court hear judicial separation cases?",
+      "answer": "Yes. Judicial separation disputes relating to marriage fall within the jurisdiction of Family Courts.",
+      "source": "Family Courts Act, 1984",
+      "page": 4
+    },
+  
+    {
+      "id": "FAMILY-011",
+      "domain": "Family",
+      "category": "Marriage",
+      "subcategory": "Nullity of Marriage",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 7",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Spouses"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "marriage validity"
+      ],
+      "keywords": [
+        "nullity",
+        "void marriage",
+        "annulment"
+      ],
+      "search_text": "nullity of marriage family court",
+      "translations": {
+        "hi": {
+          "title": "विवाह निरस्तीकरण",
+          "summary": "विवाह की वैधता से जुड़े मामलों की सुनवाई परिवार न्यायालय करता है।"
+        }
+      },
+      "question": "Can Family Court decide annulment cases?",
+      "answer": "Yes. Family Courts may hear proceedings relating to the validity or nullity of marriage.",
+      "source": "Family Courts Act, 1984",
+      "page": 4
+    },
+  
+    {
+      "id": "FAMILY-012",
+      "domain": "Family",
+      "category": "Family Disputes",
+      "subcategory": "Property Between Spouses",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 7",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Husband",
+        "Wife"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "property dispute"
+      ],
+      "keywords": [
+        "property",
+        "husband",
+        "wife",
+        "family property"
+      ],
+      "search_text": "property dispute between husband and wife family court",
+      "translations": {
+        "hi": {
+          "title": "पति-पत्नी के बीच संपत्ति विवाद",
+          "summary": "कुछ प्रकार के वैवाहिक संपत्ति विवाद परिवार न्यायालय सुन सकता है।"
+        }
+      },
+      "question": "Can Family Court hear property disputes between spouses?",
+      "answer": "Yes. Certain property disputes arising out of a marital relationship fall within the jurisdiction of the Family Court.",
+      "source": "Family Courts Act, 1984",
+      "page": 5
+    },
+    {
+      "id": "FAMILY-013",
+      "domain": "Family",
+      "category": "Maintenance",
+      "subcategory": "Children",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 7",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Minor Children"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "high",
+      "intent": [
+        "child maintenance"
+      ],
+      "keywords": [
+        "child maintenance",
+        "minor",
+        "support"
+      ],
+      "search_text": "child maintenance family court minor support",
+      "translations": {
+        "hi": {
+          "title": "बच्चों का भरण-पोषण",
+          "summary": "परिवार न्यायालय बच्चों के भरण-पोषण से जुड़े मामलों की सुनवाई कर सकता है।"
+        }
+      },
+      "question": "Can Family Court decide child maintenance cases?",
+      "answer": "Yes. Family Courts have jurisdiction over proceedings relating to maintenance of children wherever permitted under law.",
+      "source": "Family Courts Act, 1984",
+      "page": 5
+    },
+  
+    {
+      "id": "FAMILY-014",
+      "domain": "Family",
+      "category": "Guardianship",
+      "subcategory": "Minor",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 7",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Guardian",
+        "Minor"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "guardianship"
+      ],
+      "keywords": [
+        "guardian",
+        "minor",
+        "guardianship"
+      ],
+      "search_text": "guardian minor family court guardianship",
+      "translations": {
+        "hi": {
+          "title": "संरक्षकता",
+          "summary": "नाबालिग के संरक्षक से जुड़े मामलों की सुनवाई परिवार न्यायालय करता है।"
+        }
+      },
+      "question": "Can Family Court appoint or decide guardianship matters?",
+      "answer": "Family Courts may hear proceedings relating to guardianship and custody of minors as provided under law.",
+      "source": "Family Courts Act, 1984",
+      "page": 5
+    },
+  
+    {
+      "id": "FAMILY-015",
+      "domain": "Family",
+      "category": "Evidence",
+      "subcategory": "Procedure",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 14",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Litigants"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "evidence"
+      ],
+      "keywords": [
+        "evidence",
+        "documents",
+        "proof"
+      ],
+      "search_text": "family court evidence documents admissibility",
+      "translations": {
+        "hi": {
+          "title": "साक्ष्य",
+          "summary": "परिवार न्यायालय आवश्यक होने पर प्रासंगिक साक्ष्य स्वीकार कर सकता है।"
+        }
+      },
+      "question": "How does Family Court deal with evidence?",
+      "answer": "Family Courts may receive evidence that assists in effectively resolving family disputes in accordance with the Act.",
+      "source": "Family Courts Act, 1984",
+      "page": 7
+    },
+  
+    {
+      "id": "FAMILY-016",
+      "domain": "Family",
+      "category": "Counselling",
+      "subcategory": "Assistance",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 6",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Families"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "counselling"
+      ],
+      "keywords": [
+        "counselling",
+        "family counsellor",
+        "assistance"
+      ],
+      "search_text": "family counselling family court counsellor",
+      "translations": {
+        "hi": {
+          "title": "परामर्श",
+          "summary": "परिवार न्यायालय सुलह और परामर्श की सहायता ले सकता है।"
+        }
+      },
+      "question": "Does Family Court provide counselling?",
+      "answer": "Family Courts may seek assistance from counsellors and welfare experts to promote settlement and resolve disputes effectively.",
+      "source": "Family Courts Act, 1984",
+      "page": 4
+    },
+  
+    {
+      "id": "FAMILY-017",
+      "domain": "Family",
+      "category": "Court Powers",
+      "subcategory": "Civil Court Powers",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 10",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Court"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "court powers"
+      ],
+      "keywords": [
+        "civil court",
+        "powers",
+        "procedure"
+      ],
+      "search_text": "family court civil court powers",
+      "translations": {
+        "hi": {
+          "title": "न्यायालय की शक्तियाँ",
+          "summary": "परिवार न्यायालय को कुछ मामलों में सिविल न्यायालय जैसी शक्तियाँ प्राप्त होती हैं।"
+        }
+      },
+      "question": "Does Family Court have powers similar to a Civil Court?",
+      "answer": "Yes. The Family Court exercises powers and follows procedures provided under the Family Courts Act and applicable procedural laws.",
+      "source": "Family Courts Act, 1984",
+      "page": 6
+    },
+  
+    {
+      "id": "FAMILY-018",
+      "domain": "Family",
+      "category": "Execution",
+      "subcategory": "Orders",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 18",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parties"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "execution"
+      ],
+      "keywords": [
+        "execution",
+        "court order",
+        "decree"
+      ],
+      "search_text": "execution of family court order decree",
+      "translations": {
+        "hi": {
+          "title": "आदेश का पालन",
+          "summary": "परिवार न्यायालय के आदेशों का विधि अनुसार पालन कराया जा सकता है।"
+        }
+      },
+      "question": "How are Family Court orders enforced?",
+      "answer": "Orders and decrees of the Family Court are enforceable in accordance with the provisions governing execution under applicable law.",
+      "source": "Family Courts Act, 1984",
+      "page": 8
+    },
+    {
+      "id": "FAMILY-019",
+      "domain": "Family",
+      "category": "Judgment",
+      "subcategory": "Decision",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 17",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parties"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "judgment"
+      ],
+      "keywords": [
+        "judgment",
+        "decision",
+        "family court"
+      ],
+      "search_text": "family court judgment decision",
+      "translations": {
+        "hi": {
+          "title": "निर्णय",
+          "summary": "परिवार न्यायालय अपने मामलों में विधि के अनुसार निर्णय देता है।"
+        }
+      },
+      "question": "How does a Family Court deliver its decision?",
+      "answer": "Family Court proceedings conclude with a judgment or order in accordance with the provisions of the Family Courts Act.",
+      "source": "Family Courts Act, 1984",
+      "page": 8
+    },
+  
+    {
+      "id": "FAMILY-020",
+      "domain": "Family",
+      "category": "Appeal",
+      "subcategory": "No Appeal",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 19",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Parties"
+      ],
+      "jurisdiction": "India",
+      "severity": "important",
+      "urgency": "normal",
+      "intent": [
+        "appeal"
+      ],
+      "keywords": [
+        "appeal",
+        "consent decree",
+        "family court"
+      ],
+      "search_text": "when appeal not allowed family court consent decree",
+      "translations": {
+        "hi": {
+          "title": "कब अपील नहीं होती",
+          "summary": "कुछ आदेशों, जैसे सहमति से पारित आदेश, पर अपील उपलब्ध नहीं होती।"
+        }
+      },
+      "question": "Can every Family Court order be appealed?",
+      "answer": "No. The Act provides that appeals are not available against certain categories of orders, including consent decrees or orders specified under the Act.",
+      "source": "Family Courts Act, 1984",
+      "page": 9
+    },
+  
+    {
+      "id": "FAMILY-021",
+      "domain": "Family",
+      "category": "Effect of Law",
+      "subcategory": "Overriding Effect",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 20",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Courts",
+        "Citizens"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "legal effect"
+      ],
+      "keywords": [
+        "overriding effect",
+        "family courts act",
+        "conflicting law"
+      ],
+      "search_text": "overriding effect family courts act section 20",
+      "translations": {
+        "hi": {
+          "title": "अधिनियम का प्रभाव",
+          "summary": "विरोध होने पर इस अधिनियम के प्रावधान प्रभावी होते हैं।"
+        }
+      },
+      "question": "Does the Family Courts Act override inconsistent laws?",
+      "answer": "The Act provides an overriding effect where its provisions are inconsistent with other laws, to the extent specified by the Act.",
+      "source": "Family Courts Act, 1984",
+      "page": 10
+    },
+  
+    {
+      "id": "FAMILY-022",
+      "domain": "Family",
+      "category": "Rule Making",
+      "subcategory": "High Court",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 21",
+      "old_law_reference": null,
+      "applicable_to": [
+        "High Court"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "low",
+      "intent": [
+        "rules"
+      ],
+      "keywords": [
+        "high court",
+        "rules",
+        "procedure"
+      ],
+      "search_text": "high court rules family courts act",
+      "translations": {
+        "hi": {
+          "title": "उच्च न्यायालय के नियम",
+          "summary": "उच्च न्यायालय अधिनियम के अंतर्गत नियम बना सकता है।"
+        }
+      },
+      "question": "Can the High Court make rules under the Family Courts Act?",
+      "answer": "Yes. The Act authorizes the High Court to frame rules on matters covered by the Act, subject to its provisions.",
+      "source": "Family Courts Act, 1984",
+      "page": 10
+    },
+  
+    {
+      "id": "FAMILY-023",
+      "domain": "Family",
+      "category": "Rule Making",
+      "subcategory": "Central Government",
+      "act": "Family Courts Act, 1984",
+      "section": "Section 23",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Central Government"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "low",
+      "intent": [
+        "rules"
+      ],
+      "keywords": [
+        "central government",
+        "rule making"
+      ],
+      "search_text": "central government rules family courts act",
+      "translations": {
+        "hi": {
+          "title": "केंद्र सरकार के नियम",
+          "summary": "केंद्र सरकार अधिनियम के अंतर्गत नियम बना सकती है।"
+        }
+      },
+      "question": "Can the Central Government frame rules under the Act?",
+      "answer": "Yes. The Family Courts Act empowers the Central Government to make rules for carrying out the purposes of the Act wherever applicable.",
+      "source": "Family Courts Act, 1984",
+      "page": 11
+    },
+  
+    {
+      "id": "FAMILY-024",
+      "domain": "Family",
+      "category": "Objective",
+      "subcategory": "Conciliation",
+      "act": "Family Courts Act, 1984",
+      "section": "Preamble",
+      "old_law_reference": null,
+      "applicable_to": [
+        "Families"
+      ],
+      "jurisdiction": "India",
+      "severity": "informational",
+      "urgency": "normal",
+      "intent": [
+        "conciliation"
+      ],
+      "keywords": [
+        "conciliation",
+        "amicable settlement",
+        "family dispute"
+      ],
+      "search_text": "conciliation family disputes amicable settlement",
+      "translations": {
+        "hi": {
+          "title": "सुलह का उद्देश्य",
+          "summary": "परिवार न्यायालय का मुख्य उद्देश्य समझौते और सौहार्दपूर्ण समाधान को बढ़ावा देना है।"
+        }
+      },
+      "question": "What is the primary objective of Family Courts?",
+      "answer": "The primary objective of Family Courts is to encourage conciliation and facilitate speedy, amicable settlement of family disputes.",
+      "source": "Family Courts Act, 1984",
+      "page": 2
+    }
+]
