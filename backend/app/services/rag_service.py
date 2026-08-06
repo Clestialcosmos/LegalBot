@@ -29,16 +29,28 @@ class RAGService:
 
         logger.info("Initializing LegalBot RAG...")
 
-        self.chunks = load_chunks()
+        self.chunks = None
 
-        self.bm25 = load_bm25()
+        self.bm25 = None
 
-        self.vector_store = load_vector_store()
+        self.vector_store = None
 
         self.memory = ConversationMemory()
 
         logger.info("LegalBot initialized successfully.")
+    def initialize(self):
 
+        if self.vector_store is None:
+
+            logger.info("Loading RAG resources...")
+
+            self.chunks = load_chunks()
+
+            self.bm25 = load_bm25()
+
+            self.vector_store = load_vector_store()
+
+            logger.info("RAG resources loaded.")
     def retrieve(
         self,
         query: str,
@@ -86,7 +98,7 @@ class RAGService:
     ):
 
         original_query = query.strip()
-
+        self.initialize()
         if not original_query:
 
             return {
