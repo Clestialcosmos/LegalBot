@@ -4,9 +4,14 @@ from app.rag.retriever import load_vector_store
 from app.rag.fusion.rrf import reciprocal_rank_fusion
 from app.rag.prompt_builder import build_prompt
 from app.ai.groq_client import generate_response
-from app.rag.storage import load_chunks, load_bm25
+from app.rag.storage import (
+    load_chunks,
+    load_bm25,
+)
 
-from app.services.language_service import detect_language
+from app.services.language_service import (
+    detect_language,
+)
 
 from app.ai.translator import (
     translate_to_english,
@@ -18,7 +23,9 @@ from app.middleware.safety import (
     is_legal_query,
 )
 
-from app.memory.memory import ConversationMemory
+from app.memory.memory import (
+    ConversationMemory,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -27,7 +34,9 @@ class RAGService:
 
     def __init__(self):
 
-        logger.info("Initializing LegalBot RAG...")
+        logger.info(
+            "Initializing LegalBot..."
+        )
 
         self.chunks = None
 
@@ -37,35 +46,81 @@ class RAGService:
 
         self.memory = ConversationMemory()
 
-        logger.info("LegalBot initialized successfully.")
+        logger.info(
+            "LegalBot initialized."
+        )
+
     def initialize(self):
 
-        if self.vector_store is None:
+        if self.vector_store is not None:
+            return
 
-            logger.info("Loading RAG resources...")
+        logger.info(
+            "===== INITIALIZE ====="
+        )
 
-            self.chunks = load_chunks()
+        logger.info(
+            "Loading chunks..."
+        )
 
-            self.bm25 = load_bm25()
+        self.chunks = load_chunks()
 
-            self.vector_store = load_vector_store()
+        logger.info(
+            "Chunks loaded."
+        )
 
-            logger.info("RAG resources loaded.")
+        logger.info(
+            "Loading BM25..."
+        )
+
+        self.bm25 = load_bm25()
+
+        logger.info(
+            "BM25 loaded."
+        )
+
+        logger.info(
+            "Loading FAISS..."
+        )
+
+        self.vector_store = (
+            load_vector_store()
+        )
+
+        logger.info(
+            "FAISS loaded."
+        )
+
     def retrieve(
         self,
         query: str,
         k: int = 5,
     ):
 
-        faiss_docs = self.vector_store.max_marginal_relevance_search(
-            query=query,
-            k=k,
-            fetch_k=20,
+        logger.info(
+            "Running FAISS retrieval..."
+        )
+
+        faiss_docs = (
+            self.vector_store
+            .max_marginal_relevance_search(
+                query=query,
+                k=k,
+                fetch_k=20,
+            )
+        )
+
+        logger.info(
+            "Running BM25 retrieval..."
         )
 
         bm25_docs = self.bm25.search(
             query=query,
             k=k,
+        )
+
+        logger.info(
+            "Running Reciprocal Rank Fusion..."
         )
 
         fused_docs = reciprocal_rank_fusion(
@@ -90,15 +145,30 @@ class RAGService:
 
                 unique_docs.append(doc)
 
+        logger.info(
+            "Retrieved %d documents",
+            len(unique_docs),
+        )
+
         return unique_docs[:k]
 
     def ask(
         self,
         query: str,
     ):
+
+        logger.info(
+            "===== STEP 1 ====="
+        )
+
         self.initialize()
+
+        logger.info(
+            "===== STEP 2 ====="
+        )
+
         original_query = query.strip()
-        
+
         if not original_query:
 
             return {
@@ -110,18 +180,28 @@ class RAGService:
             }
 
         language = detect_language(
-            original_query
+            original_query,
+        )
+
+        logger.info(
+            "===== STEP 3 ====="
         )
 
         emergency = check_emergency(
-            original_query
+            original_query,
         )
 
+        logger.info(
+            "===== STEP 4 ====="
+        )
         if emergency:
 
             answer = emergency["answer"]
 
-            if language in ["hi", "hinglish"]:
+            if language in [
+                "hi",
+                "hinglish",
+            ]:
 
                 answer = translate_from_english(
                     answer,
@@ -136,18 +216,28 @@ class RAGService:
                 "original_query": original_query,
             }
 
+        logger.info(
+            "===== STEP 5 ====="
+        )
+
         history = self.memory.history()
 
-        if not is_legal_query(original_query):
+        if not is_legal_query(
+            original_query,
+        ):
 
             if not history:
 
                 answer = (
-                    "I am LegalBot. I can answer only "
+                    "I am LegalBot. "
+                    "I can answer only "
                     "Indian legal questions."
                 )
 
-                if language in ["hi", "hinglish"]:
+                if language in [
+                    "hi",
+                    "hinglish",
+                ]:
 
                     answer = translate_from_english(
                         answer,
@@ -162,19 +252,33 @@ class RAGService:
                     "original_query": original_query,
                 }
 
-        retrieval_query = original_query
+        retrieval_query = (
+            original_query
+        )
 
-        if language in ["hi", "hinglish"]:
+        if language in [
+            "hi",
+            "hinglish",
+        ]:
 
-            retrieval_query = translate_to_english(
-                original_query
+            logger.info(
+                "Translating query..."
+            )
+
+            retrieval_query = (
+                translate_to_english(
+                    original_query,
+                )
             )
 
         search_query = retrieval_query
 
         if history:
 
-            last_user = self.memory.last_user_message()
+            last_user = (
+                self.memory
+                .last_user_message()
+            )
 
             if (
                 last_user
@@ -187,30 +291,39 @@ class RAGService:
                     f"{retrieval_query}"
                 )
 
+        logger.info(
+            "===== STEP 6 ====="
+        )
+
         docs = self.retrieve(
             search_query,
             k=5,
         )
 
         logger.info(
-            "Retrieved %d documents",
-            len(docs),
+            "===== STEP 7 ====="
         )
 
         if len(docs) < 2:
 
             answer = (
-                "I couldn't find enough verified legal "
-                "information to answer this confidently. "
-                "Please provide more details or consult "
-                "a qualified advocate."
+                "I couldn't find enough "
+                "verified legal information "
+                "to answer this confidently. "
+                "Please provide more details "
+                "or consult a qualified advocate."
             )
 
-            if language in ["hi", "hinglish"]:
+            if language in [
+                "hi",
+                "hinglish",
+            ]:
 
-                answer = translate_from_english(
-                    answer,
-                    language,
+                answer = (
+                    translate_from_english(
+                        answer,
+                        language,
+                    )
                 )
 
             return {
@@ -224,15 +337,21 @@ class RAGService:
         if not docs:
 
             answer = (
-                "The provided legal documents do not "
-                "contain enough information."
+                "The provided legal "
+                "documents do not contain "
+                "enough information."
             )
 
-            if language in ["hi", "hinglish"]:
+            if language in [
+                "hi",
+                "hinglish",
+            ]:
 
-                answer = translate_from_english(
-                    answer,
-                    language,
+                answer = (
+                    translate_from_english(
+                        answer,
+                        language,
+                    )
                 )
 
             self.memory.add(
@@ -252,18 +371,30 @@ class RAGService:
                 "language": language,
                 "original_query": original_query,
             }
+
+        logger.info(
+            "===== STEP 8 ====="
+        )
+
         prompt = build_prompt(
             query=original_query,
             documents=docs,
             history=history,
         )
 
-        logger.debug(
-            "Prompt generated successfully."
+        logger.info(
+            "Prompt built successfully."
+        )
+        logger.info(
+            "===== STEP 9 ====="
         )
 
         answer = generate_response(
             prompt
+        )
+
+        logger.info(
+            "===== STEP 10 ====="
         )
 
         if not answer:
@@ -275,9 +406,13 @@ class RAGService:
         # -----------------------------
         # Add citations
         # -----------------------------
+
         citation = "\n\n### Sources\n"
 
-        for i, doc in enumerate(docs[:3], start=1):
+        for i, doc in enumerate(
+            docs[:3],
+            start=1,
+        ):
 
             act = doc.metadata.get(
                 "act",
@@ -308,9 +443,14 @@ class RAGService:
 
         answer += citation
 
+        logger.info(
+            "===== STEP 11 ====="
+        )
+
         # -----------------------------
         # Mandatory Disclaimer
         # -----------------------------
+
         answer += """
 
 --------------------------------------------------
@@ -325,15 +465,29 @@ a qualified advocate for case-specific guidance.
         # -----------------------------
         # Translate if required
         # -----------------------------
-        if language in ["hi", "hinglish"]:
+
+        if language in [
+            "hi",
+            "hinglish",
+        ]:
+
+            logger.info(
+                "Translating final answer..."
+            )
 
             answer = translate_from_english(
                 answer,
                 language,
             )
+
+        logger.info(
+            "===== STEP 12 ====="
+        )
+
         # -----------------------------
-        # Save Conversation Memory
+        # Save Conversation
         # -----------------------------
+
         self.memory.add(
             "user",
             original_query,
@@ -343,10 +497,10 @@ a qualified advocate for case-specific guidance.
             "assistant",
             answer,
         )
-
         # -----------------------------
         # Build Source List
         # -----------------------------
+
         sources = []
 
         seen = set()
@@ -383,6 +537,10 @@ a qualified advocate for case-specific guidance.
                 seen.add(key)
 
                 sources.append(source)
+
+        logger.info(
+            "===== STEP 13 ====="
+        )
 
         logger.info(
             "Generated answer successfully."
