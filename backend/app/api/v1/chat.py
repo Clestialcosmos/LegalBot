@@ -1,9 +1,10 @@
 import logging
 
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 
 from app.schemas.chat import ChatRequest
 from app.schemas.response import APIResponse
+from app.services.chat_service import chat
 
 logger = logging.getLogger(__name__)
 
@@ -21,23 +22,25 @@ async def chat_endpoint(
     request: ChatRequest,
 ):
 
-    logger.info("==== CHAT ENDPOINT HIT ====")
+    try:
 
-    logger.info("Message: %s", request.message)
+        result = chat(request.message)
 
-    # Temporary static response
-    result = {
-        "answer": "Chat service bypass successful",
-        "sources": [],
-        "language": "en",
-    }
+        return APIResponse(
+            success=True,
+            message="Response generated successfully",
+            data={
+                "answer": result.get("answer", ""),
+                "sources": result.get("sources", []),
+                "language": result.get("language", "en"),
+            },
+        )
 
-    return APIResponse(
-        success=True,
-        message="Response generated successfully",
-        data={
-            "answer": result["answer"],
-            "sources": result["sources"],
-            "language": result["language"],
-        },
-    )
+    except Exception as exc:
+
+        logger.exception(exc)
+
+        raise HTTPException(
+            status_code=500,
+            detail=str(exc),
+        )
