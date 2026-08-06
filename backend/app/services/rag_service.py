@@ -38,57 +38,16 @@ class RAGService:
             "Initializing LegalBot..."
         )
 
-        self.chunks = None
+        self.chunks = load_chunks()
 
-        self.bm25 = None
+        self.bm25 = load_bm25()
 
-        self.vector_store = None
+        self.vector_store = load_vector_store()
 
         self.memory = ConversationMemory()
 
         logger.info(
             "LegalBot initialized."
-        )
-
-    def initialize(self):
-
-        if self.vector_store is not None:
-            return
-
-        logger.info(
-            "===== INITIALIZE ====="
-        )
-
-        logger.info(
-            "Loading chunks..."
-        )
-
-        self.chunks = load_chunks()
-
-        logger.info(
-            "Chunks loaded."
-        )
-
-        logger.info(
-            "Loading BM25..."
-        )
-
-        self.bm25 = load_bm25()
-
-        logger.info(
-            "BM25 loaded."
-        )
-
-        logger.info(
-            "Loading FAISS..."
-        )
-
-        self.vector_store = (
-            load_vector_store()
-        )
-
-        logger.info(
-            "FAISS loaded."
         )
 
     def retrieve(
@@ -157,15 +116,6 @@ class RAGService:
         query: str,
     ):
 
-        logger.info(
-            "===== STEP 1 ====="
-        )
-
-        self.initialize()
-
-        logger.info(
-            "===== STEP 2 ====="
-        )
 
         original_query = query.strip()
 
@@ -183,17 +133,12 @@ class RAGService:
             original_query,
         )
 
-        logger.info(
-            "===== STEP 3 ====="
-        )
 
         emergency = check_emergency(
             original_query,
         )
 
-        logger.info(
-            "===== STEP 4 ====="
-        )
+
         if emergency:
 
             answer = emergency["answer"]
@@ -216,9 +161,7 @@ class RAGService:
                 "original_query": original_query,
             }
 
-        logger.info(
-            "===== STEP 5 ====="
-        )
+        
 
         history = self.memory.history()
 
@@ -261,9 +204,7 @@ class RAGService:
             "hinglish",
         ]:
 
-            logger.info(
-                "Translating query..."
-            )
+            
 
             retrieval_query = (
                 translate_to_english(
@@ -291,18 +232,12 @@ class RAGService:
                     f"{retrieval_query}"
                 )
 
-        logger.info(
-            "===== STEP 6 ====="
-        )
 
         docs = self.retrieve(
             search_query,
             k=5,
         )
 
-        logger.info(
-            "===== STEP 7 ====="
-        )
 
         if len(docs) < 2:
 
@@ -372,9 +307,6 @@ class RAGService:
                 "original_query": original_query,
             }
 
-        logger.info(
-            "===== STEP 8 ====="
-        )
 
         prompt = build_prompt(
             query=original_query,
@@ -382,20 +314,11 @@ class RAGService:
             history=history,
         )
 
-        logger.info(
-            "Prompt built successfully."
-        )
-        logger.info(
-            "===== STEP 9 ====="
-        )
 
         answer = generate_response(
             prompt
         )
 
-        logger.info(
-            "===== STEP 10 ====="
-        )
 
         if not answer:
 
@@ -442,11 +365,6 @@ class RAGService:
             )
 
         answer += citation
-
-        logger.info(
-            "===== STEP 11 ====="
-        )
-
         # -----------------------------
         # Mandatory Disclaimer
         # -----------------------------
@@ -471,18 +389,11 @@ a qualified advocate for case-specific guidance.
             "hinglish",
         ]:
 
-            logger.info(
-                "Translating final answer..."
-            )
-
             answer = translate_from_english(
                 answer,
                 language,
             )
 
-        logger.info(
-            "===== STEP 12 ====="
-        )
 
         # -----------------------------
         # Save Conversation
@@ -538,13 +449,7 @@ a qualified advocate for case-specific guidance.
 
                 sources.append(source)
 
-        logger.info(
-            "===== STEP 13 ====="
-        )
 
-        logger.info(
-            "Generated answer successfully."
-        )
 
         return {
             "answer": answer,
