@@ -18,21 +18,21 @@ router = APIRouter(
     "/chat",
     response_model=APIResponse,
 )
-async def chat_endpoint(
-    request: ChatRequest,
-):
-    """
-    Main LegalBot Chat Endpoint.
-    """
+async def chat_endpoint(request: ChatRequest):
+
+    logger.info("==== CHAT ENDPOINT HIT ====")
 
     try:
 
+        logger.info("Message: %s", request.message)
+
         result = chat(request.message)
+
+        logger.info("Chat service returned successfully.")
 
         sources = []
 
         if "sources" in result:
-
             sources = result["sources"]
 
         elif "documents" in result:
@@ -67,21 +67,15 @@ async def chat_endpoint(
             data={
                 "answer": result.get("answer", ""),
                 "sources": sources,
-                "language": result.get(
-                    "language",
-                    "en",
-                ),
+                "language": result.get("language", "en"),
             },
         )
 
     except Exception as exc:
 
-        logger.exception(
-            "Chat endpoint failed: %s",
-            exc,
-        )
+        logger.exception("CHAT ENDPOINT ERROR")
 
         raise HTTPException(
             status_code=500,
-            detail="Internal Server Error",
+            detail=str(exc),
         )

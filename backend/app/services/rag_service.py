@@ -96,9 +96,9 @@ class RAGService:
         self,
         query: str,
     ):
-
-        original_query = query.strip()
         self.initialize()
+        original_query = query.strip()
+        
         if not original_query:
 
             return {
