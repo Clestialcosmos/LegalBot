@@ -51,8 +51,6 @@ def load_pdf_documents() -> list[Document]:
     )
 
     return documents
-
-
 def load_knowledge_documents() -> list[Document]:
     """
     Load curated knowledge packs.
@@ -93,47 +91,52 @@ def load_knowledge_documents() -> list[Document]:
                 {},
             )
 
+            english = translations.get(
+                "en",
+                {},
+            )
+
             hindi = translations.get(
                 "hi",
                 {},
             )
 
-            text = "\n".join(
-                [
-
-                    entry.get(
-                        "question",
-                        "",
-                    ),
-
-                    entry.get(
-                        "answer",
-                        "",
-                    ),
-
-                    hindi.get(
-                        "title",
-                        "",
-                    ),
-
-                    hindi.get(
-                        "summary",
-                        "",
-                    ),
-
-                    entry.get(
-                        "search_text",
-                        "",
-                    ),
-
-                    " ".join(
-                        entry.get(
-                            "keywords",
-                            [],
-                        )
-                    ),
-                ]
+            hinglish = translations.get(
+                "hinglish",
+                {},
             )
+
+            text = f"""
+Title:
+{english.get("title", "")}
+
+Content:
+{english.get("content", "")}
+
+Steps:
+{" ".join(english.get("steps", []))}
+
+Documents Required:
+{" ".join(english.get("documents_required", []))}
+
+Hindi Title:
+{hindi.get("title", "")}
+
+Hindi Content:
+{hindi.get("content", "")}
+
+Hinglish Title:
+{hinglish.get("title", "")}
+
+Hinglish Content:
+{hinglish.get("content", "")}
+
+Search Text:
+{entry.get("search_text", "")}
+
+Keywords:
+{" ".join(entry.get("keywords", []))}
+"""
 
             metadata = {
 
@@ -165,9 +168,32 @@ def load_knowledge_documents() -> list[Document]:
                     "jurisdiction",
                 ),
 
-                "source": file.name,
+                "severity": entry.get(
+                    "severity",
+                ),
 
-                "language": "en",
+                "urgency": entry.get(
+                    "urgency",
+                ),
+
+                "intent": ", ".join(
+                    entry.get(
+                        "intent",
+                        [],
+                    )
+                ),
+
+                "source": entry.get(
+                    "source",
+                    file.name,
+                ),
+
+                "source_url": entry.get(
+                    "source_url",
+                    "",
+                ),
+
+                "language": "multilingual",
 
                 "version": entry.get(
                     "version",
@@ -189,7 +215,7 @@ def load_knowledge_documents() -> list[Document]:
 
                 Document(
 
-                    page_content=text,
+                    page_content=text.strip(),
 
                     metadata=metadata,
 
@@ -228,3 +254,4 @@ def load_documents():
     )
 
     return documents
+    
