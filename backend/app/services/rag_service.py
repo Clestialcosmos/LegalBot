@@ -5,7 +5,6 @@ from app.rag.fusion.rrf import reciprocal_rank_fusion
 from app.rag.prompt_builder import build_prompt
 from app.ai.groq_client import generate_response
 from app.rag.storage import (
-    load_chunks,
     load_bm25,
 )
 
@@ -38,11 +37,10 @@ class RAGService:
             "Initializing LegalBot..."
         )
 
-        self.chunks = load_chunks()
+        # Lazy loading to reduce startup RAM
+        self.bm25 = None
 
-        self.bm25 = load_bm25()
-
-        self.vector_store = load_vector_store()
+        self.vector_store = None
 
         self.memory = ConversationMemory()
 
@@ -56,27 +54,51 @@ class RAGService:
         k: int = 5,
     ):
 
-        logger.info(
-            "Running FAISS retrieval..."
-        )
+        # -------------------------
+        # Lazy Load Vector Store
+        # -------------------------
 
-        faiss_docs = (
-            self.vector_store
-            .max_marginal_relevance_search(
+        if self.vector_store is None:
+
+            logger.info(
+                "Loading FAISS vector store..."
+            )
+
+            self.vector_store = load_vector_store()
+
+            # -------------------------
+            # Lazy Load BM25
+            # -------------------------
+
+            if self.bm25 is None:
+
+                logger.info(
+                    "Loading BM25 index..."
+                )
+
+                self.bm25 = load_bm25()
+
+            logger.info(
+                "Running FAISS retrieval..."
+            )
+
+            faiss_docs = (
+                self.vector_store
+                .max_marginal_relevance_search(
+                    query=query,
+                    k=k,
+                    fetch_k=20,
+                )
+            )
+
+            logger.info(
+                "Running BM25 retrieval..."
+            )
+
+            bm25_docs = self.bm25.search(
                 query=query,
                 k=k,
-                fetch_k=20,
             )
-        )
-
-        logger.info(
-            "Running BM25 retrieval..."
-        )
-
-        bm25_docs = self.bm25.search(
-            query=query,
-            k=k,
-        )
 
         logger.info(
             "Running Reciprocal Rank Fusion..."
