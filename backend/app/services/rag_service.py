@@ -53,86 +53,101 @@ class RAGService:
         query: str,
         k: int = 5,
     ):
-
+    
         # -------------------------
         # Lazy Load Vector Store
         # -------------------------
-
+    
         if self.vector_store is None:
-
+    
             logger.info(
                 "Loading FAISS vector store..."
             )
-
+    
             self.vector_store = load_vector_store()
-
-            # -------------------------
-            # Lazy Load BM25
-            # -------------------------
-
-            if self.bm25 is None:
-
-                logger.info(
-                    "Loading BM25 index..."
-                )
-
-                self.bm25 = load_bm25()
-
+    
+        # -------------------------
+        # Lazy Load BM25
+        # -------------------------
+    
+        if self.bm25 is None:
+    
             logger.info(
-                "Running FAISS retrieval..."
+                "Loading BM25 index..."
             )
-
-            faiss_docs = (
-                self.vector_store
-                .max_marginal_relevance_search(
-                    query=query,
-                    k=k,
-                    fetch_k=20,
-                )
-            )
-
-            logger.info(
-                "Running BM25 retrieval..."
-            )
-
-            bm25_docs = self.bm25.search(
+    
+            self.bm25 = load_bm25()
+    
+        # -------------------------
+        # FAISS Retrieval
+        # -------------------------
+    
+        logger.info(
+            "Running FAISS retrieval..."
+        )
+    
+        faiss_docs = (
+            self.vector_store
+            .max_marginal_relevance_search(
                 query=query,
                 k=k,
+                fetch_k=20,
             )
-
+        )
+    
+        # -------------------------
+        # BM25 Retrieval
+        # -------------------------
+    
+        logger.info(
+            "Running BM25 retrieval..."
+        )
+    
+        bm25_docs = self.bm25.search(
+            query=query,
+            k=k,
+        )
+    
+        # -------------------------
+        # Reciprocal Rank Fusion
+        # -------------------------
+    
         logger.info(
             "Running Reciprocal Rank Fusion..."
         )
-
+    
         fused_docs = reciprocal_rank_fusion(
             faiss_docs,
             bm25_docs,
         )
-
+    
+        # -------------------------
+        # Remove duplicates
+        # -------------------------
+    
         unique_docs = []
-
+    
         seen = set()
-
+    
         for doc in fused_docs:
-
+    
             key = (
                 doc.metadata.get("source"),
                 doc.metadata.get("page"),
             )
-
+    
             if key not in seen:
-
+    
                 seen.add(key)
-
+    
                 unique_docs.append(doc)
-
+    
         logger.info(
             "Retrieved %d documents",
             len(unique_docs),
         )
-
+    
         return unique_docs[:k]
-
     def ask(
         self,
         query: str,
