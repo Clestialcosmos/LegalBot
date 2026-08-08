@@ -7,7 +7,6 @@
 **AI-powered legal information assistant focused on Police, FIR, Arrest & Bail matters in India.**
 
 <img src="https://github.com/Clestialcosmos/LegalBot/blob/main/picture1" alt="LegalBot Prototype" width="900">
-<img src="https://github.com/Clestialcosmos/LegalBot/blob/main/picture2" alt="LegalBot Prototype" width="900">
 
 </div>
 
@@ -294,7 +293,7 @@ The prototype provides a conversational LegalBot interface with:
 - Purple/white visual design
 
 <p align="center">
-  <img src="assets/prototype.png" alt="LegalBot user interface prototype" width="900">
+  <img src="https://github.com/Clestialcosmos/LegalBot/blob/main/picture2" alt="LegalBot Prototype" width="900">
 </p>
 
 ---
