@@ -1,11 +1,11 @@
 function EmptyChat({ onSend }) {
   const questions = [
     { icon: "🚓", text: "What is an FIR?" },
-    { icon: "📄", text: "How do I file an RTI application?" },
-    { icon: "💳", text: "A cyber fraud happened to me. What should I do?" },
-    { icon: "🛒", text: "How can I file a consumer complaint?" },
-    { icon: "⚖️", text: "What are my rights during police arrest?" },
-    { icon: "📨", text: "How do I send a legal notice?" },
+    { icon: "📄", text: "What should I do if police refuse to register my FIR?" },
+    { icon: "💳", text: "What are my rights during a police arrest?" },
+    { icon: "🛒", text: "What are my rights during a police search?" },
+    { icon: "⚖️", text: "What is bail and how does it work?" },
+    { icon: "📨", text: "What is the difference between IPC and BNS?" },
   ];
 
   return (
